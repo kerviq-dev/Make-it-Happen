@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+make-it-happen-app/node_modules/
+
+# Production builds
+dist/
+make-it-happen-app/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Local execution wrappers
+powershell.bat
+make-it-happen-app/powershell.bat

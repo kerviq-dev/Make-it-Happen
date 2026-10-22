@@ -1,0 +1,129 @@
+/* ============================================================
+   MAKE IT HAPPEN — ANIMATION KEYFRAMES
+   All @keyframes extracted from Stitch screens & bespoke luxury accents.
+   Imported by globals.css.
+   ============================================================ */
+
+/* ─── Page Transition ─── */
+@keyframes pageFadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── Events Page — Infinite Horizontal Scroll ─── */
+@keyframes scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.animate-scroll {
+  animation: scroll 40s linear infinite;
+}
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
+
+/* ─── Events Page — Silk Ribbon Wave Flow ─── */
+@keyframes ribbonDrift {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-18px) rotate(0.5deg);
+  }
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+/* ─── Our Work Page — Orbital Marquee ─── */
+@keyframes marquee {
+  0%   { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-container {
+  display: flex;
+  width: fit-content;
+  animation: marquee 40s linear infinite;
+}
+.marquee-container:hover {
+  animation-play-state: paused;
+}
+
+/* ─── Our Work Page — Gallery Ambient Bokeh & Spotlight Drift ─── */
+@keyframes bokehDrift1 {
+  0%   { transform: translate(0px, 0px) scale(1); opacity: 0.14; }
+  50%  { transform: translate(45px, -35px) scale(1.15); opacity: 0.24; }
+  100% { transform: translate(-25px, 20px) scale(0.92); opacity: 0.15; }
+}
+@keyframes bokehDrift2 {
+  0%   { transform: translate(0px, 0px) scale(1); opacity: 0.12; }
+  50%  { transform: translate(-55px, 30px) scale(1.2); opacity: 0.20; }
+  100% { transform: translate(35px, -25px) scale(0.95); opacity: 0.13; }
+}
+@keyframes gallerySpotlight {
+  0%, 100% { opacity: 0.04; transform: rotate(-18deg) scaleX(1); }
+  50%      { opacity: 0.08; transform: rotate(-15deg) scaleX(1.1); }
+}
+@keyframes irisSlowRotate {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to   { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* ─── Experience Page — Architectural Resonance & Candlelight Breathe ─── */
+@keyframes resonanceBreathe {
+  0%   { transform: translateY(0px) scale(1); opacity: 0.25; }
+  50%  { transform: translateY(-15px) scale(1.04); opacity: 0.45; }
+  100% { transform: translateY(0px) scale(1); opacity: 0.25; }
+}
+@keyframes candleBreathe {
+  0%, 100% { opacity: 0.16; transform: scale(1); }
+  50%      { opacity: 0.28; transform: scale(1.08); }
+}
+
+/* ─── Our Story — Full-Window Heritage Editorial Aurora ─── */
+@keyframes storyAuroraSweep {
+  0%   { transform: translate(0px, 0px) scale(1); opacity: 0.18; }
+  50%  { transform: translate(30px, -25px) scale(1.08); opacity: 0.3; }
+  100% { transform: translate(-20px, 15px) scale(0.95); opacity: 0.2; }
+}
+
+/* ─── Packages Page — Hologram Scan Line ─── */
+@keyframes scan {
+  0%   { top: -10%; opacity: 0; }
+  10%  { opacity: 1; }
+  90%  { opacity: 1; }
+  100% { top: 110%; opacity: 0; }
+}
+
+/* ─── Packages Page — Premium Orb Pulse ─── */
+@keyframes pulseGlow {
+  0%   { box-shadow: inset 0 0 80px  rgba(212,175,55,0.2), 0 0 40px  rgba(212,175,55,0.3); }
+  100% { box-shadow: inset 0 0 120px rgba(212,175,55,0.4), 0 0 80px  rgba(212,175,55,0.6); }
+}
+
+/* ─── Contact Page — Halo Ring Slow Pulse ─── */
+@keyframes haloPulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.7; }
+}
+
+/* ─── Our Work Page — Star Twinkle ─── */
+@keyframes starTwinkle {
+  0%, 100% { opacity: 0.2; transform: scale(0.85); }
+  50%      { opacity: 0.9; transform: scale(1.15); }
+}
+
+/* ─── Home Page — Hero Float ─── */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-12px); }
+}
+
+/* ─── Fade Up (shared scroll reveal) ─── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp 0.6s ease forwards;
+}

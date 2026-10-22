@@ -1,0 +1,5112 @@
+[{
+  "title": "AmTosin Party Chairs and Tables Rental",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Transform your event with our elegant white mop folding fan back chairs, available for hire at just £2 each. Elevate your setup further with our sleek rectangular tables, also available for hire at £10 each. Looking for a marquee to complete your setup? We’ve got you covered! Our versatile and stylish marquees are available for hire, perfectly suited to accommodate your event's size and theme. Need delivery? No problem! We offer delivery services at an additional cost, tailored to your postcode for convenience. To secure your reservation, simply drop us a message with your event dates, desired quantity of chairs/tables, marquee size, and your postcode if delivery is required. For pickups, our location is conveniently situated in M22 & WA10.",
+  "price": null,
+  "categoryName": "Event planner",
+  "address": "12 Brookcroft Ave, Wythenshawe, Manchester M22 8EA, United Kingdom",
+  "neighborhood": "Wythenshawe",
+  "street": "12 Brookcroft Ave",
+  "city": "Manchester",
+  "postalCode": "M22 8EA",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7856 592961",
+  "phoneUnformatted": "+447856592961",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.3931006,
+    "lng": -2.2620507
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "9PVQ+65 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJC7KF_nIbe0gRQXgv76BMXaw",
+  "categories": [
+    "Event planner"
+  ],
+  "fid": "0x487b1b72fe85b20b:0xac5d4ca0ef2f7841",
+  "cid": "12420167601449039937",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 9,
+  "imageCategories": [
+    "All",
+    "Inside",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:10.789Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 43
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 43
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 37
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 37
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 31
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 56
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 31
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Something-Nice",
+      "reviewsCount": 6,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "M & M Entertainments",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Furniture Hire UK",
+      "reviewsCount": 6,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Event Hire UK",
+      "reviewsCount": 1,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "Last Stop Events LTD",
+      "reviewsCount": 56,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=AmTosin%20Party%20Chairs%20and%20Tables%20Rental&query_place_id=ChIJC7KF_nIbe0gRQXgv76BMXaw",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20decorators/@53.36074070993818,-2.302993963040298,14z?hl=en",
+  "searchString": "Event decorators",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRJxCi5D1fI7I-_b4w3y9xslH5FmDE3zHXcCkkkU-VWZrz6ce43uhjmOV4ZUYijcFNf6GnQOS52GuytScUQHrCpFgQjNlhf63kdiMDDRTB1eI5wNlx1uH3WzAZi1qPQ9K7Jyw=w408-h408-k-no",
+  "kgmid": "/g/11y4617fcz",
+  "businessProfileId": "9702912455486498427",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Something-Nice",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Furniture rental service",
+  "address": "420 Palatine Rd, Northenden, Wythenshawe, Manchester M22 4JT, United Kingdom",
+  "neighborhood": "Northenden, Wythenshawe",
+  "street": "420 Palatine Rd",
+  "city": "Manchester",
+  "postalCode": "M22 4JT",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7436 811275",
+  "phoneUnformatted": "+447436811275",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4070741,
+    "lng": -2.2602828
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CP4Q+RV Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJebM53n2te0gRBg0qFYREsK4",
+  "categories": [
+    "Furniture rental service",
+    "Wedding planner",
+    "Wedding store"
+  ],
+  "fid": "0x487bad7dde39b379:0xaeb04484152a0d06",
+  "cid": "12587636292581985542",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 6
+  },
+  "imagesCount": 112,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-06T07:26:19.360Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 3 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "tables",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Something-Nice&query_place_id=ChIJebM53n2te0gRBg0qFYREsK4",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20Planners/@53.36074070993818,-2.302993963040298,14z?hl=en",
+  "searchString": "Event Planners",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksC3S_CP_k2eB54mGg-QkaH55bgIz2uIXNIyllpN4N6VUM2AQJ6GVVUoQ6YxvDmAPekAJvMg6cta620nBQwaB3Wgj8JqUm_ow0rssugrFc06ydQpTVyI-fBjlqc9op0asO9NSm=w426-h240-k-no",
+  "kgmid": "/g/11ddzpd1vg",
+  "businessProfileId": "13194084654474193370",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Rose Mist",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Event and design specialist, floral designer",
+  "price": null,
+  "categoryName": "Wedding planner",
+  "address": "Ste 6, 3 Elm Grove, Didsbury, Manchester M20 6PL, United Kingdom",
+  "neighborhood": "Didsbury",
+  "street": "Ste 6, 3 Elm Grove",
+  "city": "Manchester",
+  "postalCode": "M20 6PL",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 327 3267",
+  "phoneUnformatted": "+441613273267",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.416164,
+    "lng": -2.2311609
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CQ89+FG Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwXuXn_ize0gRJQf0eUs3fg4",
+  "categories": [
+    "Wedding planner",
+    "Event planner"
+  ],
+  "fid": "0x487bb3f89f977bc1:0xe7e374b79f40725",
+  "cid": "1044332960904644389",
+  "reviewsCount": 30,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 29
+  },
+  "imagesCount": 9,
+  "imageCategories": [
+    "All",
+    "Inside",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:22.313Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ornate Decor & Event Planners",
+      "reviewsCount": 33,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Something-Nice",
+      "reviewsCount": 6,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Flourish Manchester",
+      "reviewsCount": 123,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Wedding Flowers",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "room transformation",
+      "count": 3
+    },
+    {
+      "title": "helpful employees",
+      "count": 2
+    },
+    {
+      "title": "consultation",
+      "count": 2
+    },
+    {
+      "title": "commitment",
+      "count": 2
+    },
+    {
+      "title": "sisters",
+      "count": 3
+    },
+    {
+      "title": "instagram",
+      "count": 2
+    },
+    {
+      "title": "book",
+      "count": 4
+    },
+    {
+      "title": "expectations",
+      "count": 3
+    },
+    {
+      "title": "company",
+      "count": 4
+    },
+    {
+      "title": "decor",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Online appointments": true
+      },
+      {
+        "Onsite services": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rose%20Mist&query_place_id=ChIJwXuXn_ize0gRJQf0eUs3fg4",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20decorators/@53.442433900000005,-2.302993963040298,14z?hl=en",
+  "searchString": "Event decorators",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlfQFXnPHZ_giTfZNzyhR949RYLzagCbOcsPw8jqsjznWdowfFV3-9tXNYuZxdOHvzPbeTaj2iz-nkOu-nKsmZQiLDwci7hVIQwmt2OVBIdyVjclzCFidtH7W6bBJhyAj1SPul5Pg=w408-h544-k-no",
+  "kgmid": "/g/11g01wy9hs",
+  "businessProfileId": "11676001661092907219",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [
+    {
+      "name": "rosemist.co.uk",
+      "url": "http://www.rosemist.co.uk/"
+    }
+  ],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Bareeze Travel",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "2 Woodside Rd, Manchester M16 0BT, United Kingdom",
+  "neighborhood": null,
+  "street": "2 Woodside Rd",
+  "city": "Manchester",
+  "postalCode": "M16 0BT",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 861 0872",
+  "phoneUnformatted": "+441618610872",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4499728,
+    "lng": -2.2733374
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CPXG+XM Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIUcze_ute0gR0ZPnFlmW_vQ",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487badfb7b334721:0xf4fe965916e793d1",
+  "cid": "17653712898719454161",
+  "reviewsCount": 19,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 17
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:24.140Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 4 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Razan Travel",
+      "reviewsCount": 8,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Travel Vibes UK Ltd",
+      "reviewsCount": 52,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "No longer",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "money",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Payments": [
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bareeze%20Travel&query_place_id=ChIJIUcze_ute0gR0ZPnFlmW_vQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.442433900000005,-2.302993963040298,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvROn4YCCA46y4kL732mF7lhmidTy-L88Oy9SQj0R_HDXOnqFmj_cTYc4hPq93Hn-VZXhDQRDh3EPk0RrbctvVvZnb5tpxCGss9ep1reExZ8qFdQYFDZR2xuLhw3IznJREZPRn_Q=w408-h272-k-no",
+  "kgmid": "/g/1tlgxhjk",
+  "businessProfileId": "468725140851836141",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Manchester Hajj & Umrah Ltd",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Tour agency",
+  "address": "11 Badminton Rd, Manchester M21 0UQ, United Kingdom",
+  "neighborhood": null,
+  "street": "11 Badminton Rd",
+  "city": "Manchester",
+  "postalCode": "M21 0UQ",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7786 454008",
+  "phoneUnformatted": "+447786454008",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.4450128,
+    "lng": -2.2665012
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CPWM+29 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9ail3_mte0gRlFeUWVVKXhM",
+  "categories": [
+    "Tour agency"
+  ],
+  "fid": "0x487badf9dfa5a8f5:0x135e4a5559945794",
+  "cid": "1395634664967002004",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:30.782Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Haji Tours",
+      "reviewsCount": 174,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Usmania Hajj Tours Ltd.",
+      "reviewsCount": 12,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Haq Travels",
+      "reviewsCount": 142,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Cheap Hajj and Umrah Packages Manchester",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "HMH Travels Ltd",
+      "reviewsCount": 15,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Manchester%20Hajj%20%26%20Umrah%20Ltd&query_place_id=ChIJ9ail3_mte0gRlFeUWVVKXhM",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.442433900000005,-2.302993963040298,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ea8lsvlII7-qAq91kIpJOA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.269396&pitch=0&thumbfov=100",
+  "kgmid": "/g/11dftfyfjk",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "MOON TRAVEL UK",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "455 Cheetham Hill Rd, Cheetham Hill, Manchester M8 9PA, United Kingdom",
+  "neighborhood": "Cheetham Hill",
+  "street": "455 Cheetham Hill Rd",
+  "city": "Manchester",
+  "postalCode": "M8 9PA",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 795 9220",
+  "phoneUnformatted": "+441617959220",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.5072038,
+    "lng": -2.2401388
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "GQ45+VW Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOVbt00mwe0gRO5OnNScKe9U",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb049d3ed5639:0xd57b0a2735a7933b",
+  "cid": "15382900115734238011",
+  "reviewsCount": 79,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 7,
+    "fiveStar": 69
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:31.472Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Royal Travel (Tel 24/7)",
+      "reviewsCount": 375,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "HMH Travels Ltd",
+      "reviewsCount": 15,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Travelink Group Ltd",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Mayfair International Travel & Tours Ltd",
+      "reviewsCount": 2,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "Manchester Travel Agents",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "reliable staff",
+      "count": 5
+    },
+    {
+      "title": "seamless planning",
+      "count": 2
+    },
+    {
+      "title": "flight booking",
+      "count": 5
+    },
+    {
+      "title": "quick response",
+      "count": 2
+    },
+    {
+      "title": "trip booking",
+      "count": 4
+    },
+    {
+      "title": "holiday planning",
+      "count": 2
+    },
+    {
+      "title": "smooth travel",
+      "count": 3
+    },
+    {
+      "title": "helpfulness",
+      "count": 3
+    },
+    {
+      "title": "politeness",
+      "count": 2
+    },
+    {
+      "title": "attention to detail",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      },
+      {
+        "Online appointments": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MOON%20TRAVEL%20UK&query_place_id=ChIJOVbt00mwe0gRO5OnNScKe9U",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkg_Yp1mliGTEoPoz-mOvJK6w29ySo0D17ip1l0hMyZu6J-ejyLD9_cntEYvcFZz_3h_osPe64UHAit9DSxOpN_aZLnIWpz8AvPUXinN6HefKM96lgxHBDQMp6BVKbYkywmZ3WH=w408-h255-k-no",
+  "kgmid": "/g/11c6fbsx5j",
+  "businessProfileId": "6994408294205972504",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Bowman Travel Services",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "448 Hollinwood Ave, Manchester M40 0JH, United Kingdom",
+  "neighborhood": null,
+  "street": "448 Hollinwood Ave",
+  "city": "Manchester",
+  "postalCode": "M40 0JH",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 682 6840",
+  "phoneUnformatted": "+441616826840",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.5254219,
+    "lng": -2.1750751
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "GRGF+5X Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ3eoncbewe0gR_zp0es82ExQ",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb0b77127eadd:0x141336cf7a743aff",
+  "cid": "1446560170056628991",
+  "reviewsCount": 55,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 5,
+    "fiveStar": 48
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:32.797Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 4:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 4:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 4:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 4:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 3 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Al Abbas Travel",
+      "reviewsCount": 13,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Five Star Travel Ltd",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Howards Way Travel",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "HMH Travels Ltd",
+      "reviewsCount": 15,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Kevin at Blue Bay Travel (ABTA / ATOL)",
+      "reviewsCount": 24,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "helpful staff",
+      "count": 22
+    },
+    {
+      "title": "informative staff",
+      "count": 2
+    },
+    {
+      "title": "holiday planning",
+      "count": 3
+    },
+    {
+      "title": "polite staff",
+      "count": 2
+    },
+    {
+      "title": "helpfulness",
+      "count": 2
+    },
+    {
+      "title": "travel agents",
+      "count": 3
+    },
+    {
+      "title": "holiday",
+      "count": 5
+    },
+    {
+      "title": "flight",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bowman%20Travel%20Services&query_place_id=ChIJ3eoncbewe0gR_zp0es82ExQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b0DAWb91fAnzbfOtf-aw0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.7628&pitch=0&thumbfov=100",
+  "kgmid": "/g/1trvkz_8",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Skyline Interiorss",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "We are passionate home decor enthusiast and interior designer specializing in cloud ceiling designs. With a keen eye for detail and a love for creating unique and dreamy spaces, I bring a touch of magic to your home. From transforming ordinary ceilings into breathtaking cloudscapes to curating the perfect color palettes and furniture arrangements, I strive to create spaces that reflect your personality and inspire a sense of tranquility. Whether you're looking to revamp a single room or redesign your entire home, I'm here to bring your vision to life. Let's turn your home into a haven of beauty and serenity!\"",
+  "price": null,
+  "categoryName": "Interior designer",
+  "address": "30 Sheepfoot Ln, Prestwich, Manchester M25 0DL, United Kingdom",
+  "neighborhood": "Prestwich",
+  "street": "30 Sheepfoot Ln",
+  "city": "Manchester",
+  "postalCode": "M25 0DL",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7587 499443",
+  "phoneUnformatted": "+447587499443",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.5275386,
+    "lng": -2.2537329
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "GPHW+2G Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJhQrpLkGxe0gR4izIKXAWU0M",
+  "categories": [
+    "Interior designer"
+  ],
+  "fid": "0x487bb1412ee90a85:0x4353167029c82ce2",
+  "cid": "4851245894601288930",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 28,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:34.040Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 PM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 4 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 4 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Designs by Shelley B.",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Ashley Interiors",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "LR-DESIGN",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Elite Interiors NW LTD",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Urban Skyline Media Ltd",
+      "reviewsCount": 2,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Skyline%20Interiorss&query_place_id=ChIJhQrpLkGxe0gR4izIKXAWU0M",
+  "searchPageUrl": "https://www.google.com/maps/search/Interior%20designers/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Interior designers",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltWDaOgMEQRtpVIm4UZHwbaPYmIlCKLL-OEhm5VWNoVR8JxmbGTVo072s58uo-Ol3HfZPOhkh3wxgqiz7clyy2m3qpjsSKz7t-g1tmk3Gyxahw9SucqfJGoSUcIt80cOPrH0Rnpg=w426-h240-k-no",
+  "kgmid": "/g/11vw_h3hlm",
+  "businessProfileId": "5371353197363790077",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Travel with Rochel - TWR -",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Travel With Rochel (TWR) offers hassle-free kosher travel experiences to diverse destinations including Poland, Venice, Malta, Budapest, Rome, Morocco, Norway, Iceland, and Portugal, with new locations added yearly. All-inclusive packages mean everything is taken care of once you book. Rochel Stefansky's tours, particularly designed for women and girls, combine Jewish history with authentic Hashkofos perspectives, making each journey meaningful and educational. She opens travelers' eyes to historical Jewish personalities, events, and communities, helping them understand their heritage. Custom trips are available for couples, synagogues, and friend groups. TWR ensures every journey enriches your connection to Jewish heritage.",
+  "price": null,
+  "categoryName": "Tour operator",
+  "address": null,
+  "neighborhood": null,
+  "street": null,
+  "city": null,
+  "postalCode": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "+44 7974 009036",
+  "phoneUnformatted": "+447974009036",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4722454,
+    "lng": -2.2234628
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJITFkHH28Ck8RFJNxQ70nwLc",
+  "categories": [
+    "Tour operator",
+    "Service establishment"
+  ],
+  "fid": "0x4f0abc7d1c643121:0xb7c027bd43719314",
+  "cid": "13240626598303077140",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 10,
+  "imageCategories": [
+    "All",
+    "By owner"
+  ],
+  "scrapedAt": "2026-09-06T07:26:39.919Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Travel%20with%20Rochel%20-%20TWR%20-&query_place_id=ChIJITFkHH28Ck8RFJNxQ70nwLc",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 33,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkToRxAmEvm6CEXeZsnIGzjo7OiEYetjn5GxNrnxsrWnWZMe-Xi7Tw6RDdO_jHJnzEuYoZYoapU5ycAQ5iWvhQWyWDqUtxkHVAxWTxAMODEQ86TzYn-IcBU3Q8nA9DdivF3ulA=w408-h884-k-no",
+  "kgmid": "/g/11lyq1mvv3",
+  "businessProfileId": "3994005695882572425",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Ayan Travel & Tours",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Worldwide Airline tickets, Umrah Packages, Hajj Packages, Holiday Packages, Saudi Visas, NICOP services, and Money Transfer services.",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "461 Cheetham Hill Rd, Cheetham Hill, Manchester M8 9PA, United Kingdom",
+  "neighborhood": "Cheetham Hill",
+  "street": "461 Cheetham Hill Rd",
+  "city": "Manchester",
+  "postalCode": "M8 9PA",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 964 6346",
+  "phoneUnformatted": "+441619646346",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.5072753,
+    "lng": -2.2404298
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "GQ45+WR Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJKZq7mbOxe0gR3W6MV-Me4wg",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb1b399bb9a29:0x8e31ee3578c6edd",
+  "cid": "640389533791973085",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:40.536Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "PANJTAN TRAVEL & TOURS",
+      "reviewsCount": 8,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Sonya Travel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Mayfair International Travel & Tours Ltd",
+      "reviewsCount": 2,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "Ayan Exchange",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Raza Travel & Tours",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ayan%20Travel%20%26%20Tours&query_place_id=ChIJKZq7mbOxe0gR3W6MV-Me4wg",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iZ_Vd6wl53WAJ4hHTyw2sw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.68489&pitch=0&thumbfov=100",
+  "kgmid": "/g/11t6j8rw6b",
+  "businessProfileId": "16625607750323537417",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Boggart Hole Clough Visitor’s Centre",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Visitor center",
+  "address": "Boggart Hole Clough, Charlestown Rd, Manchester, United Kingdom",
+  "neighborhood": null,
+  "street": "Boggart Hole Clough, Charlestown Rd",
+  "city": "Manchester",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 795 2650",
+  "phoneUnformatted": "+441617952650",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.5227739,
+    "lng": -2.1981775
+  },
+  "locatedIn": "Boggart Hole Clough",
+  "floor": null,
+  "plusCode": "GRF2+4P Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB6mvcgCxe0gR2g6Z2mDpM28",
+  "categories": [
+    "Visitor center"
+  ],
+  "fid": "0x487bb10072afa907:0x6f33e960da990eda",
+  "cid": "8013004764215840474",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:41.524Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Boggart Hole Clough",
+      "reviewsCount": 2086,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "GoHulme.co.uk",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Charlestown Rd/Boggart Hole Clough",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Manchester Visitor Information Centre",
+      "reviewsCount": 168,
+      "totalScore": 4.1
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Payments": [
+      {
+        "Debit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Boggart%20Hole%20Clough%20Visitor%E2%80%99s%20Centre&query_place_id=ChIJB6mvcgCxe0gR2g6Z2mDpM28",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.52412709006183,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRwNWotkPswQYPhEbaHL4fxxTw4Ce7d0uPQ_iLRj9hRpRF3Blfxx0A4oyQcaLNoedl8k2qOI2mQ90yqatMaNsEhgi4oU2ddzlpZ_XPCkceTGvWVOHZqJqk_R-_W5-mBIJ3TOjX=w533-h240-k-no",
+  "kgmid": "/g/11vwnls089",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "K.D Decorating",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "At KD Decorating, we specialise in high-quality painting and decorating services for homeowners across Manchester and the surrounding areas. With over 12 years of experience, we take pride in delivering a clean, reliable and professional finish on every job—whether it's a single room refresh or a full home makeover.\n\nAs a fully insured sole trader with my own van and tools, I offer a personal, dependable service with great attention to detail. From modern interiors to timeless traditional finishes, I work closely with clients to bring their vision to life—on time and on budget.\n\n✅ Interior & exterior painting\n✅ Woodwork and finishing\n✅ Tidy, respectful and customer-focused\n✅ Free quotes & honest advice",
+  "price": null,
+  "categoryName": "Painter",
+  "address": "3 Yewtree Ln, Northenden, Wythenshawe, Manchester M22 4DX, United Kingdom",
+  "neighborhood": "Northenden, Wythenshawe",
+  "street": "3 Yewtree Ln",
+  "city": "Manchester",
+  "postalCode": "M22 4DX",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7548 280064",
+  "phoneUnformatted": "+447548280064",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4107198,
+    "lng": -2.2615539
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CP6Q+79 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJa38Dalyte0gRflw2pe4lyyw",
+  "categories": [
+    "Painter"
+  ],
+  "fid": "0x487bad5c6a037f6b:0x2ccb25eea5365c7e",
+  "cid": "3227715264845339774",
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 25
+  },
+  "imagesCount": 241,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Inside",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:49.045Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "fair quote",
+      "count": 2
+    },
+    {
+      "title": "prep work",
+      "count": 5
+    },
+    {
+      "title": "interior design",
+      "count": 2
+    },
+    {
+      "title": "finish",
+      "count": 3
+    },
+    {
+      "title": "attention to detail",
+      "count": 9
+    },
+    {
+      "title": "good value",
+      "count": 4
+    },
+    {
+      "title": "efficient",
+      "count": 3
+    },
+    {
+      "title": "quality of work",
+      "count": 7
+    },
+    {
+      "title": "decorator",
+      "count": 3
+    },
+    {
+      "title": "punctuality",
+      "count": 4
+    }
+  ],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=K.D%20Decorating&query_place_id=ChIJa38Dalyte0gRflw2pe4lyyw",
+  "searchPageUrl": "https://www.google.com/maps/search/Interior%20designers/@53.40158730496909,-2.302993963040298,14z?hl=en",
+  "searchString": "Interior designers",
+  "language": "en",
+  "rank": 30,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleerWX6la0M74WdN4NccouHfTRWpZs54qxeAb1SgaH7diLHaxD1OyMT_nJbGTQbVFXAjhZZBmw_x9XXUfkxZ1dahJVH6qB-6JA_d9AKnImo3cyINv1uqB74pp2ebziV5-WUOCq3M016zxL=w408-h306-k-no",
+  "kgmid": "/g/11xnc6gxjz",
+  "businessProfileId": "16912077062580870375",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [
+    {
+      "text": "Just completed this stunning home in Hale,  Front and Rear.  If you want to freshen up your tired looking render and facia. Contact now for great rates and free quotations.",
+      "buttonText": null,
+      "buttonLink": null,
+      "date": "2026-05-20T19:40:05.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/geougc/AF1QipMSu1kqHOIDG5w6uvvT1eyU1-nzho6jUUkdt1kh=h400-no"
+    }
+  ],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Gift & Balloon Lounge",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Gift shop",
+  "address": "219 Burnage Ln, Burnage, Manchester M19 1FN, United Kingdom",
+  "neighborhood": "Burnage",
+  "street": "219 Burnage Ln",
+  "city": "Manchester",
+  "postalCode": "M19 1FN",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 222 3550",
+  "phoneUnformatted": "+441612223550",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.432391,
+    "lng": -2.200567
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CQJX+XQ Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJkeUfkMqze0gR1xdTt2_YMxc",
+  "categories": [
+    "Gift shop",
+    "Balloon store",
+    "Greeting card shop"
+  ],
+  "fid": "0x487bb3ca901fe591:0x1733d86fb75317d7",
+  "cid": "1671917861013231575",
+  "reviewsCount": 145,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 6,
+    "fourStar": 11,
+    "fiveStar": 123
+  },
+  "imagesCount": 46,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-06T07:26:54.678Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "balloons",
+      "count": 29
+    },
+    {
+      "title": "helpful staff",
+      "count": 51
+    },
+    {
+      "title": "bespoke balloons",
+      "count": 3
+    },
+    {
+      "title": "cards",
+      "count": 7
+    },
+    {
+      "title": "partywear",
+      "count": 4
+    },
+    {
+      "title": "last minute orders",
+      "count": 3
+    },
+    {
+      "title": "kind staff",
+      "count": 9
+    },
+    {
+      "title": "family business",
+      "count": 3
+    },
+    {
+      "title": "balloon quality",
+      "count": 3
+    },
+    {
+      "title": "birthday shopping",
+      "count": 2
+    }
+  ],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gift%20%26%20Balloon%20Lounge&query_place_id=ChIJkeUfkMqze0gR1xdTt2_YMxc",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20decorators/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Event decorators",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlOdE07biJloBwbV8YRA5WCh0u74y_F74brQqQZL6tkuFwMZU-cwqW5nBLwEmuMN9RDCiAS1QOE8ydvHtUyKZmOxC5MO6jq_nZRahU8SxLiHuck4KfckSbjDCluDjuTKUvzZLaxrA=w408-h544-k-no",
+  "kgmid": "/g/1yh9tswsc",
+  "businessProfileId": "15887810485319582828",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "GMB Banqueting hall",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Banquet hall",
+  "address": "19 Birch Ln, Longsight, Manchester M13 0NW, United Kingdom",
+  "neighborhood": "Longsight",
+  "street": "19 Birch Ln",
+  "city": "Manchester",
+  "postalCode": "M13 0NW",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7708 115159",
+  "phoneUnformatted": "+447708115159",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.4580586,
+    "lng": -2.2043348
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQ5W+67 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo9ONmt2xe0gRg8B-fRAjHnw",
+  "categories": [
+    "Banquet hall"
+  ],
+  "fid": "0x487bb1dd9a8dd3a3:0x7c1e23107d7ec083",
+  "cid": "8943624463736291459",
+  "reviewsCount": 40,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 11,
+    "fiveStar": 25
+  },
+  "imagesCount": 26,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Vibe",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:56.492Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Birch Community Centre",
+      "reviewsCount": 163,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Eastern Pearl",
+      "reviewsCount": 448,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Elegance Q Banquet",
+      "reviewsCount": 136,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Usmania Banqueting Hall",
+      "reviewsCount": 220,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Crystal Suite",
+      "reviewsCount": 154,
+      "totalScore": 4.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "gathering area",
+      "count": 2
+    },
+    {
+      "title": "weddings",
+      "count": 2
+    },
+    {
+      "title": "venue",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=GMB%20Banqueting%20hall&query_place_id=ChIJo9ONmt2xe0gRg8B-fRAjHnw",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20decorators/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Event decorators",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRHhBfEnIEv7qJgrxJM22dJIptXflX4bRsLcKT97wincxui7emcpdisQzPslBwqiRjbW4WR2Mdu1fJHSdsIxx2wBwU0Y_GRv2eLP0LBrwkYhmvhYkkgAdFeE1oS2H0eVQBDgnv=w408-h725-k-no",
+  "kgmid": "/g/11h_23yc1q",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "AS Travel UK Ltd",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "1014 Stockport Rd, Manchester M19 3WN, United Kingdom",
+  "neighborhood": null,
+  "street": "1014 Stockport Rd",
+  "city": "Manchester",
+  "postalCode": "M19 3WN",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 221 1111",
+  "phoneUnformatted": "+441612211111",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.441708,
+    "lng": -2.1897373
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CRR6+M4 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVVXQDsSze0gRWopsk3SHwFE",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb3c40ed05555:0x51c08774936c8a5a",
+  "cid": "5890857247359928922",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 27
+  },
+  "imagesCount": 12,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Inside",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:56.636Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Royal Travel (Tel 24/7)",
+      "reviewsCount": 375,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Last Option Travel Agency UK LTD",
+      "reviewsCount": 28,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "GS TRAVELS and money transfers",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Salaar Travels & Tour Ltd",
+      "reviewsCount": 1,
+      "totalScore": 1
+    },
+    {
+      "category": "People also search for",
+      "title": "Al Abbas Travel",
+      "reviewsCount": 13,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "umrah package",
+      "count": 3
+    },
+    {
+      "title": "best deal",
+      "count": 2
+    },
+    {
+      "title": "caring staff",
+      "count": 2
+    },
+    {
+      "title": "air travel",
+      "count": 4
+    },
+    {
+      "title": "travel advice",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=AS%20Travel%20UK%20Ltd&query_place_id=ChIJVVXQDsSze0gRWopsk3SHwFE",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0vCgI9DZp2oIt-ZpWLvQi5WIsBYg0QBjLim0Pkm7A4vFpZuY2Q2BtTogtgoziG9F6-m6vQReA3Bp_-dpAlmMgRg6r6JCgtgBtCpAUIlEDqZAjr87V1okWX4FCWW3XuC9nqGvf=w408-h544-k-no",
+  "kgmid": "/g/11ffrtq2yn",
+  "businessProfileId": "17791838001670860701",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Falcon Express Travel Services",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Local travel agent\nMoney transfer\nCargo",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "Unit 2, 1B Stamford Rd, Levenshulme, Manchester M13 0SE, United Kingdom",
+  "neighborhood": "Levenshulme",
+  "street": "Unit 2, 1B Stamford Rd",
+  "city": "Manchester",
+  "postalCode": "M13 0SE",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 224 9228",
+  "phoneUnformatted": "+441612249228",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4552276,
+    "lng": -2.1989913
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FR42+3C Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJMyDEd9aze0gRd6HxEKf3u7E",
+  "categories": [
+    "Travel agency",
+    "Delivery service",
+    "Money transfer service"
+  ],
+  "fid": "0x487bb3d677c42033:0xb1bbf7a710f1a177",
+  "cid": "12807102262274007415",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 7
+  },
+  "imagesCount": 10,
+  "imageCategories": [
+    "All",
+    "Inside",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:26:57.429Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 3 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Zagros Travel",
+      "reviewsCount": 32,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Razan Travel",
+      "reviewsCount": 8,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Lamjay Ventures",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Air Network Travel and Tours",
+      "reviewsCount": 3,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Online appointments": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Falcon%20Express%20Travel%20Services&query_place_id=ChIJMyDEd9aze0gRd6HxEKf3u7E",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqO1lzBvgcXiwrNRtysEiNeDqbG5sXLowQJi2L05QwQDxGiIwVagHeKCZvnwJYcjDB4RoERL8xkpJCoLMuhpdrPHT1tEWfPCXc9RjSP_FhxepFQ5fljJHKGtsTDqWQbdXNBwE=w408-h596-k-no",
+  "kgmid": "/g/1hc1qpn3x",
+  "businessProfileId": "7884602168527712180",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Top Struct",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "The team consists of the great professionals with the aim of innovation and best performance in interior design.",
+  "price": null,
+  "categoryName": "Interior designer",
+  "address": null,
+  "neighborhood": null,
+  "street": null,
+  "city": null,
+  "postalCode": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "+44 7599 000951",
+  "phoneUnformatted": "+447599000951",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4722454,
+    "lng": -2.2234628
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOWM1XUqYIysRgrU3TRzgWnw",
+  "categories": [
+    "Interior designer",
+    "Service establishment"
+  ],
+  "fid": "0x2b23984a5d356339:0x7c5ae01c4d37b582",
+  "cid": "8960720820766225794",
+  "reviewsCount": 10,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 9
+  },
+  "imagesCount": 76,
+  "imageCategories": [
+    "All",
+    "Inside",
+    "By owner"
+  ],
+  "scrapedAt": "2026-09-06T07:26:58.296Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "porch painting",
+      "count": 2
+    },
+    {
+      "title": "pleasant staff",
+      "count": 3
+    },
+    {
+      "title": "finish",
+      "count": 2
+    },
+    {
+      "title": "quality of work",
+      "count": 2
+    },
+    {
+      "title": "attention to detail",
+      "count": 3
+    },
+    {
+      "title": "cleanliness",
+      "count": 4
+    },
+    {
+      "title": "friendly staff",
+      "count": 2
+    },
+    {
+      "title": "interior painting",
+      "count": 3
+    },
+    {
+      "title": "home",
+      "count": 2
+    },
+    {
+      "title": "painting",
+      "count": 5
+    }
+  ],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Struct&query_place_id=ChIJOWM1XUqYIysRgrU3TRzgWnw",
+  "searchPageUrl": "https://www.google.com/maps/search/Interior%20designers/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Interior designers",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloNgWrykNZ_V7qMIpgL2Fo1TTEdsgLseznWR2r4M1QKBEXWwwwCdZnktvixS7SyA4m2px_ns9BTYFq-X7czVyWbeXrvq-489ycWAOQCfPbWGCl_xVgCfM-uPCDRwRYu3794Jsc=w408-h306-k-no",
+  "kgmid": "/g/11tdlfrjnz",
+  "businessProfileId": "3083140604976319816",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Last Option Travel Agency UK LTD",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Our services include:\n• Air Tickets\n• Saudia Arabia Visa Service\n• Pakistani Passport Service\n• RIA and Western Union, moeny gram send and rasve",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "1040 Stockport Rd, Manchester M19 3WX, United Kingdom",
+  "neighborhood": null,
+  "street": "1040 Stockport Rd",
+  "city": "Manchester",
+  "postalCode": "M19 3WX",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7448 866535",
+  "phoneUnformatted": "+447448866535",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.441124,
+    "lng": -2.1891169
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CRR6+C9 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYbhGgKeze0gRUrasDkvpNeU",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb3a78046b861:0xe535e94b0eacb652",
+  "cid": "16516363717029181010",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 25
+  },
+  "imagesCount": 48,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "Inside",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:01.168Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 4 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "AS Travel UK Ltd",
+      "reviewsCount": 28,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Matthew Ruth, Travel Agent with Your Coop",
+      "reviewsCount": 9,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "money transfer",
+      "count": 2
+    },
+    {
+      "title": "money gram",
+      "count": 3
+    },
+    {
+      "title": "money",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Online appointments": true
+      },
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Last%20Option%20Travel%20Agency%20UK%20LTD&query_place_id=ChIJYbhGgKeze0gRUrasDkvpNeU",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZ_JBBQRUu5TwNQHkHvKFxBI1WCX3MeqgiTdH0iBkk2OeFVuWnRAqzGVoujnVy_XfvvgWaV3YlBnHL_15dUpLpKjoELGODSL1Nop0iFL8w_CTa7NmJeHKG2XooXCb_LgbqREv4=w408-h306-k-no",
+  "kgmid": "/g/11nxr82lnz",
+  "businessProfileId": "377662825870197399",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Razan Travel",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Apply for passport or Travel document\n\nApply for Indefinite Leave to remain\n\nApply for British citizenship\n\nApply for Extension Visa\n\nApply for Extension Further Leave to Remain\n\nFlight, Bus and train ticket",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "229A Wilmslow Rd, Manchester M14 5LW, United Kingdom",
+  "neighborhood": null,
+  "street": "229A Wilmslow Rd",
+  "city": "Manchester",
+  "postalCode": "M14 5LW",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7902 992399",
+  "phoneUnformatted": "+447902992399",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.452523,
+    "lng": -2.2224864
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQ3H+22 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJa_LEoiiye0gRJiS48nQ5Rlo",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb228a2c4f26b:0x5a463974f2b82426",
+  "cid": "6504949886234403878",
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 8
+  },
+  "imagesCount": 7,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Inside",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:01.590Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:30 AM to 3:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Falcon Express Travel Services",
+      "reviewsCount": 7,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Air Network Travel and Tours",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Park Lane Travel",
+      "reviewsCount": 48,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Z & A Travel Ltd",
+      "reviewsCount": 51,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "helpful staff",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Online appointments": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Arabic": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Razan%20Travel&query_place_id=ChIJa_LEoiiye0gRJiS48nQ5Rlo",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 27,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnuv94TAjI41urOyQ4xOqGe4hiMPc1QZ2SKb9zxMFH0w__3dm7IYhm6PdOFVLgsM3VGf5ofs7_ZZt8aVt14T0LE1qW3P5lBFbmv7VjedL3Z6ZfiL0FkUT9zjpxzG2fuFjm1_gg=w408-h306-k-no",
+  "kgmid": "/g/11b7q593w7",
+  "businessProfileId": "17565332782261753627",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Waho Travel Ltd",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "974 Stockport Rd, Manchester M19 3NN, United Kingdom",
+  "neighborhood": null,
+  "street": "974 Stockport Rd",
+  "city": "Manchester",
+  "postalCode": "M19 3NN",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.4432258,
+    "lng": -2.1915645
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CRV5+79 Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJjdNeDtWxe0gRqR1Cc9xHTrQ",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb1d50e5ed38d:0xb44e47dc73421da9",
+  "cid": "12992400987162549673",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:02.931Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "AS Travel UK Ltd",
+      "reviewsCount": 28,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Royal Travel (Tel 24/7)",
+      "reviewsCount": 375,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "C W Travel Manchester",
+      "reviewsCount": 4,
+      "totalScore": 2
+    },
+    {
+      "category": "People also search for",
+      "title": "WOWTRAVEL",
+      "reviewsCount": 22,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Waho%20Travel%20Ltd&query_place_id=ChIJjdNeDtWxe0gRqR1Cc9xHTrQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.442433900000005,-2.2345801,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 39,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nMTpJn384ungSaeNOQfg_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=242.53465&pitch=0&thumbfov=100",
+  "kgmid": "/g/11g07ym6z_",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "7startravel. Ltd",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "Manchester M1 1PW, United Kingdom",
+  "neighborhood": null,
+  "street": null,
+  "city": "Manchester",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "GB",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.483895,
+    "lng": -2.2438283
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQM4+HF Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB2xZt8axe0gRI7CQUgXaRRg",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x487bb1c6b7596c07:0x1845da055290b023",
+  "cid": "1749043746698211363",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:03.793Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Aa Express Travel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Urwah Travel Services",
+      "reviewsCount": 1,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "U-K Travel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Amin Travel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Whitesands Travel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=7startravel.%20Ltd&query_place_id=ChIJB2xZt8axe0gRI7CQUgXaRRg",
+  "searchPageUrl": "https://www.google.com/maps/search/Travel%20agencies/@53.48328049503092,-2.2345801,14z?hl=en",
+  "searchString": "Travel agencies",
+  "language": "en",
+  "rank": 26,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=93fwGRqxNof_po67kQI4zw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.77539&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tmk814_",
+  "businessProfileId": "13081915413864552519",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "kws design and build",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Trusted builders in Manchester for extensions, conversions, renovations, new builds and specialist flooring systems — planned properly, built carefully and finished to a high standard.",
+  "price": null,
+  "categoryName": "Construction company",
+  "address": "134 Beresford Rd, Longsight, Manchester M13 0TF, United Kingdom",
+  "neighborhood": "Longsight",
+  "street": "134 Beresford Rd",
+  "city": "Manchester",
+  "postalCode": "M13 0TF",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7404 155474",
+  "phoneUnformatted": "+447404155474",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4490216,
+    "lng": -2.2013018
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "CQXX+JF Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJN_p8PTWze0gRXShzN69RuuQ",
+  "categories": [
+    "Construction company"
+  ],
+  "fid": "0x487bb3353d7cfa37:0xe4ba51af3773285d",
+  "cid": "16481575599307171933",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 40,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Exterior",
+    "Construction",
+    "By owner"
+  ],
+  "scrapedAt": "2026-09-06T07:27:09.552Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=kws%20design%20and%20build&query_place_id=ChIJN_p8PTWze0gRXShzN69RuuQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Interior%20designers/@53.442433900000005,-2.166166236959702,14z?hl=en",
+  "searchString": "Interior designers",
+  "language": "en",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPnYe74Ny-cvrpbNzMt2S9VRe79X5-w6zjVdo6Cj25NkcU9P8A6lAOGAGHC0H_N1FaklRzBZ2-Q1a4_6MpdpHA-SSElYbd75vE7GiopC5s0uLyjqZarVjSQhcEBvtlxKf5y5-9PpuF7ejO=w408-h544-k-no",
+  "kgmid": "/g/11zdtf0tg7",
+  "businessProfileId": "9501561844302643002",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Lamjay Ventures",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Lamjay Ventures allows you book affordable and comfortable travel to Africa!\nWe always guarantee a safe and reliable service.\n\n.\n.\n.\n.\n.\n.\n.\n\n*Though we are closed over the weekends you can still call us at +44 7423 183 864 and we can help you book flights remotely.",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "Unit 3, 531 Stockport Rd, Longsight, Manchester M12 4JH, United Kingdom",
+  "neighborhood": "Longsight",
+  "street": "Unit 3, 531 Stockport Rd",
+  "city": "Manchester",
+  "postalCode": "M12 4JH",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7423 183864",
+  "phoneUnformatted": "+447423183864",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4573189,
+    "lng": -2.2004887
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQ4X+WR Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFXtJf32xe0gROm_PYZDQU2E",
+  "categories": [
+    "Travel agency",
+    "Business center"
+  ],
+  "fid": "0x487bb17d7f497b15:0x6153d09061cf6f3a",
+  "cid": "7013178363280846650",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 10,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Inside",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:11.760Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 4:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Razan Travel",
+      "reviewsCount": 8,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Falcon Express Travel Services",
+      "reviewsCount": 7,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Karamat hussain Travel agents",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Zagros Travel",
+      "reviewsCount": 32,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "HMH Travels Ltd",
+      "reviewsCount": 15,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lamjay%20Ventures&query_place_id=ChIJFXtJf32xe0gROm_PYZDQU2E",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.442433900000005,-2.166166236959702,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 37,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIkhw6QnJhp7JQbVg33oWcV4EyHK1Qolv1LYuropz6QC07eBy3grhNYVD-Dg0iRX1NEspaxYpEGR7YEudGl3jwAXbt3r8ZIHqODhdn9Q2tXXAFSzAj0HxusIo9_TEgA5ilcIxtZA=w426-h240-k-no",
+  "kgmid": "/g/1hc6lybdk",
+  "businessProfileId": "17871003148822780871",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Beyond the Decor",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Our event decoration business offers bespoke designs, meticulous attention to details, and exceptional customer service. From weddings to corporate events, we bring your vision to life with creativity, passion, and professionalism, ensuring every occasion is truly unforgettable and leaves a lasting impression.",
+  "price": null,
+  "categoryName": "Event management company",
+  "address": null,
+  "neighborhood": null,
+  "street": null,
+  "city": null,
+  "postalCode": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "+44 7341 712797",
+  "phoneUnformatted": "+447341712797",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4722454,
+    "lng": -2.2234628
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSRxa1qe5FE4Rp2NKvqCa_Yo",
+  "categories": [
+    "Event management company",
+    "Service establishment"
+  ],
+  "fid": "0x4e14b9a7d65a1c49:0x8afd9aa0be4a63a7",
+  "cid": "10015331161519842215",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 0,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-06T07:27:14.437Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20the%20Decor&query_place_id=ChIJSRxa1qe5FE4Rp2NKvqCa_Yo",
+  "searchPageUrl": "https://www.google.com/maps/search/Event%20decorators/@53.52412709006183,-2.166166236959702,14z?hl=en",
+  "searchString": "Event decorators",
+  "language": "en",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": null,
+  "kgmid": "/g/11lz7rg8v5",
+  "businessProfileId": "7003444250331060261",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Manchester Brewery Tours",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Tour operator",
+  "address": "75 N Western St, Manchester M12 6DY, United Kingdom",
+  "neighborhood": null,
+  "street": "75 N Western St",
+  "city": "Manchester",
+  "postalCode": "M12 6DY",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 7418 310015",
+  "phoneUnformatted": "+447418310015",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.4735077,
+    "lng": -2.2184497
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQFJ+CJ Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJy9sMFyixe0gR7EGjyviTge8",
+  "categories": [
+    "Tour operator"
+  ],
+  "fid": "0x487bb128170cdbcb:0xef8193f8caa341ec",
+  "cid": "17258237943821320684",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 6
+  },
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-06T07:27:16.149Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "knowledgeable guide",
+      "count": 2
+    },
+    {
+      "title": "brewing",
+      "count": 3
+    },
+    {
+      "title": "beer",
+      "count": 2
+    }
+  ],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Manchester%20Brewery%20Tours&query_place_id=ChIJy9sMFyixe0gR7EGjyviTge8",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.48328049503092,-2.166166236959702,14z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtaI9Q5yOFKPeUzkeTojvKNaoetGO8G3JGJxDBoatIZGTnysAyKhWOHbpGtfTg6aGoT3f_GW7yTIkGkaxurL4xlde9gNpGeXJ1hbJQdPFo8kzU0AEgXgI94wNIMqDrz9hvwekl=w408-h306-k-no",
+  "kgmid": "/g/11j0wls7nb",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Kaya Honeymoon Volunteer",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Tour agency",
+  "address": "The Arches North Campus Incubator, Sackville St, Manchester M60 1QD, United Kingdom",
+  "neighborhood": null,
+  "street": "The Arches North Campus Incubator, Sackville St",
+  "city": "Manchester",
+  "postalCode": "M60 1QD",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 161 870 6212",
+  "phoneUnformatted": "+441618706212",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.478118,
+    "lng": -2.2391322
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWRtDG8Cxe0gRxI9WU_T0huk",
+  "categories": [
+    "Tour agency"
+  ],
+  "fid": "0x487bb1c01b431b59:0xe986f4f453568fc4",
+  "cid": "16827406387923816388",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 11,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2026-09-06T07:27:25.842Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Key Travel",
+      "reviewsCount": 62,
+      "totalScore": 2.5
+    },
+    {
+      "category": "People also search for",
+      "title": "AfricanMecca Safaris",
+      "reviewsCount": 2,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Cancer Awareness for Teens & Twenties (CATTs)",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kaya%20Honeymoon%20Volunteer&query_place_id=ChIJWRtDG8Cxe0gRxI9WU_T0huk",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.4722454,-2.2234628,15.254178911690644z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 29,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8XL5mLJHcEqTYAyhTSpbfsh1-JU0MlVbaSs13IAlwhYc_N4kfNZeIeE9A0U7xuaiBbv8GUa8uRNVZsfVdGL4nSZ2NkQ2JbDWBQwGC43Oj2I0O8JyDNqAxHv5JYntAiNVxeWU=w408-h306-k-no",
+  "kgmid": "/g/11r2qvrcl6",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "More Life VIP",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "More Life VIP is a luxury travel company offering exclusive holidays to some of the world's most luxurious destinations. We only work with the finest 5* hotels and handpicked experiences so we can provide you with a tailor-made holiday. Our expert staff are on hand to design a bespoke holiday package which meets your individual preferences including luxury transfers, accommodation and the very best in luxury and adrenaline pumping experiences.",
+  "price": null,
+  "categoryName": "Travel agency",
+  "address": "Lincoln House, 125 Deansgate, Manchester M3 2BY, United Kingdom",
+  "neighborhood": null,
+  "street": "Lincoln House, 125 Deansgate",
+  "city": "Manchester",
+  "postalCode": "M3 2BY",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "+44 330 043 0906",
+  "phoneUnformatted": "+443300430906",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 53.4801374,
+    "lng": -2.2481914
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "FQJ2+3P Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJdWhQHrRMVCIRBDpiASLQfE8",
+  "categories": [
+    "Travel agency"
+  ],
+  "fid": "0x22544cb41e506875:0x4f7cd02201623a04",
+  "cid": "5727681670579108356",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-06T07:27:31.380Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 6:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 6:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 6:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 6:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 6:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "wasOpenAtScrapeTime": false,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=More%20Life%20VIP&query_place_id=ChIJdWhQHrRMVCIRBDpiASLQfE8",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.478118,-2.2391322,16.253979256743484z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 39,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3vj4CCSZtLdsV8318o-NH30hY--sr9dArQm9fbLVD6CTjn3vSA1uPsJPJpZ9ZpAKysdFKbb1IwXjI83ee2i-9VJIyVP-iknf725okLHpi9JyIlzPUCuK8_nyzomLhqedc10E=w408-h272-k-no",
+  "kgmid": "/g/11rrjrrzpl",
+  "businessProfileId": "11618485738281132998",
+  "questionsAndAnswers": [],
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Assisted Travel",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "Piccadilly Station, Manchester M1 2WD, United Kingdom",
+  "neighborhood": null,
+  "street": "Piccadilly Station",
+  "city": "Manchester",
+  "postalCode": "M1 2WD",
+  "state": null,
+  "countryCode": "GB",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 53.4773417,
+    "lng": -2.2310476
+  },
+  "locatedIn": "Manchester Piccadilly",
+  "floor": "Floor G",
+  "plusCode": "FQG9+WH Manchester, United Kingdom",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8S3w17Wxe0gR8krUrGCyWN8",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x487bb1b5d7f02df1:0xdf58b260acd44af2",
+  "cid": "16093809396694665970",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 14,
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "scrapedAt": "2026-09-06T07:27:34.702Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Manchester travel service",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Travel Assist",
+      "reviewsCount": 15,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Manchester Piccadilly Rail Station (Stop A)",
+      "reviewsCount": 10,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Strada Assist Limited",
+      "reviewsCount": 3,
+      "totalScore": 2.3
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Assisted%20Travel&query_place_id=ChIJ8S3w17Wxe0gR8krUrGCyWN8",
+  "searchPageUrl": "https://www.google.com/maps/search/Tours%20and%20Travels/@53.478118,-2.2391322,16.253979256743484z?hl=en",
+  "searchString": "Tours and Travels",
+  "language": "en",
+  "rank": 56,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHC2P5qW817tik4da6gE5xJLqbI_MdgTNJ8Qawlo3TNQvLCfenwYa0h13lqGQH9ilQ8Ow_zdXFnKrqZysPTjmJ5BV9jvfXcVMmH7a3zRMRhzWZHAotSSdOWvZpUdRBJiK67oud=w408-h544-k-no",
+  "kgmid": "/g/11l308d8l4",
+  "businessProfileId": null,
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Welcome to Manchester",
+    "language": "en",
+    "postDate": "2 years ago",
+    "postedBy": {
+      "name": "Addy Color",
+      "url": "https://www.google.com/maps/contrib/116594003991329825401?hl=en-US",
+      "title": "Local Guide",
+      "totalReviews": 156
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmO7SSvsQ-aNbBiYMJwKOhCNGk7R0ANHkCholsTvR_mObLk8zkzsO5a0dCVNfJmSEB43V-Yei2OjltCpOCYEG1Hfl7oW9qjQQHqIHvI0MmO1_9JvvryPAqAepYS_Gy0oqQwsL5dN=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNiwV2v2nKuL7u0MIYNIzrxOsgnT62xnLsD33l0rc2AUwo7ZaUaq8KLvOWKbM2iVzHDO3jjk4we3FdGKe9KT7vznaGQUANiYDETwc53zdoqAI9GMurcDg0NzlJMTRP3kLngrwfMEQ=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPX7LeMvuVI4anOuhGBJ0J-cmqyrrtMQOHzOMKLGRpUfFxt8Rp4wW9lX2Sx14N33W-wGUEv3Nkk0EgB3hexz3Nn85AJelZXcE3FNzcFas9MYb04DW1MYO89opOnNgbrRsNu5abw=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOKFcFLJnElFX7EWzpJDsmEJWSDUXhz34Iz1UOa2cwPYMfPD5oQAwlt-2cpFLXl53kmqzRbyQxpx1Zte9zr2XUrNVO_ePxYc_mDGANQQzs8N_eheNJsd-bU_L2Pkgiyp8X-7rGb=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmP5JUETdHFkcK0KFl6O6fiOvxiX5WeP3cwhHPe9vlhJPAltxw430R3-Y4xKubdgX8Et4XQrlMME_32JoyiVMSoY6RJL6tDmpFmOnKs0Umv3vC45bxqKQASMNPtacxaHXX_q6fM=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNTAjAWQkt6Gnzr2vbZ3GGumHsONkQEM6I9D5Mngea-tWV8z7PZ7PfDB3Kw71tNFEEL0sAQj_1Za2jGR7ns8eVlTXT6mTR8UgBQoYnVu69t9-lgxoTRNZzwU4UwdAPRNeJjJbjWww=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPnnk-icmHUivsMcMkU_yw5y146hAN__tViOHzVr-bBifMJepSseWsJsE71s73J5CGnlpqoxkhq_xfh2beO4hmqu_e-KD4H5_ahWTSFhVkaaVAam6tPszVQONGChYj19l-IcFwK=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPJqDAjZyknueswAuYH0XdgQGkKrhkSNivY1t8vTQhurR0gK5gz6KzXEXQUI8PB5UoPSydDzPOn3czOqAKjPyz5enKEgYjRIRkZgs3m6Lo1cHVkGdUYjdyrTA40EsQTws-V1ngL=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNyYjcNauyReq4ETmHzjDinQcrwd0u5GpmzwltGTrfjVGQLW_aBrOe531YGTXp2AToP-RsmSqeoAZcRCGrlkzPuK7XfE3B3uDZixutzLrxg8Yq8OmuQfWYxXwS-mjoWF3_lFS0=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNRvEO_Q2mQ8uhaOpDZN9wzPHfS9_sJw2k3WoBeAGav0STT9llkkztAr7oSd2wbUlvwOk8tdbudOBDZZ3ptcf4pAJaF6d_an__EWaNOBcFQVfDZazMblChV_RlV-bu_Ox_zJBQ92Q=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMQXnSc7ZYCLhDRrI8t2NLz_fFMJjz4OhN7sPZwH2beuKx3iCxz3kpIq2fIwHFrhwJL4WEMoY8QxApTBjE5m_jkc6_UIL87AIieo3AeplLDSs4ctyR5EBlzcqU_Qj5XeA4gFijK=k-no",
+        "postDate": "2 years ago"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOFFcXui0I9fuSsqVpgbiGT_KaWxe3jK3lNWpWL2OVaSafTR3cwGqks-37GreELvyUkfS5kfMYXvGC2iyY7W2Oj9_xJjWxOFBedIj0-k_GFrSYCdJSOh6teEyJ7jNDCZ0T5q2c5fw=k-no",
+        "postDate": "2 years ago"
+      }
+    ]
+  },
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+}]

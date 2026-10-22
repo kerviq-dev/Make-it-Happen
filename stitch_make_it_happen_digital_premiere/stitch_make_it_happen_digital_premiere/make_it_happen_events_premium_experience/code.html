@@ -1,0 +1,347 @@
+<!DOCTYPE html><html class="dark scroll-smooth" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Make It Happen Events</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;family=Playfair+Display:wght@400;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container-high": "#2a2a2a",
+                        "error-container": "#93000a",
+                        "surface-bright": "#393939",
+                        "on-error": "#690005",
+                        "secondary": "#c9c6c3",
+                        "on-secondary-fixed-variant": "#484745",
+                        "surface-dim": "#131313",
+                        "surface": "#131313",
+                        "surface-container-lowest": "#0e0e0e",
+                        "on-error-container": "#ffdad6",
+                        "primary": "#f2ca50",
+                        "tertiary-fixed": "#e5e2e1",
+                        "secondary-fixed": "#e5e2df",
+                        "background": "#131313",
+                        "inverse-surface": "#e4e2e1",
+                        "on-tertiary": "#313030",
+                        "on-primary-fixed": "#241a00",
+                        "tertiary-container": "#b5b2b2",
+                        "on-primary-container": "#554300",
+                        "on-primary-fixed-variant": "#574500",
+                        "on-primary": "#3c2f00",
+                        "on-tertiary-fixed-variant": "#474646",
+                        "secondary-fixed-dim": "#c9c6c3",
+                        "tertiary-fixed-dim": "#c8c6c5",
+                        "outline-variant": "#4d4635",
+                        "primary-container": "#d4af37",
+                        "on-secondary-fixed": "#1c1b1a",
+                        "on-tertiary-fixed": "#1c1b1b",
+                        "primary-fixed-dim": "#e9c349",
+                        "surface-container-highest": "#353535",
+                        "surface-tint": "#e9c349",
+                        "outline": "#99907c",
+                        "inverse-primary": "#735c00",
+                        "on-surface-variant": "#d0c5af",
+                        "surface-container-low": "#1b1c1c",
+                        "on-background": "#e4e2e1",
+                        "error": "#ffb4ab",
+                        "on-tertiary-container": "#454545",
+                        "tertiary": "#d0cecd",
+                        "on-secondary-container": "#b7b4b2",
+                        "primary-fixed": "#ffe088",
+                        "on-surface": "#e4e2e1",
+                        "on-secondary": "#31302f",
+                        "surface-variant": "#353535",
+                        "inverse-on-surface": "#303030",
+                        "surface-container": "#1f2020",
+                        "secondary-container": "#484745"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "gutter": "32px",
+                        "stack-lg": "32px",
+                        "section-gap": "160px",
+                        "margin-mobile": "24px",
+                        "stack-sm": "8px",
+                        "margin-desktop": "80px",
+                        "stack-md": "16px"
+                    },
+                    "fontFamily": {
+                        "display-lg-mobile": ["Playfair Display"],
+                        "body-md": ["Inter"],
+                        "headline-sm": ["Playfair Display"],
+                        "label-caps": ["Inter"],
+                        "headline-md": ["Playfair Display"],
+                        "body-lg": ["Inter"],
+                        "display-lg": ["Playfair Display"]
+                    },
+                    "fontSize": {
+                        "display-lg-mobile": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-sm": ["24px", { "lineHeight": "32px", "fontWeight": "600" }],
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }],
+                        "headline-md": ["32px", { "lineHeight": "40px", "fontWeight": "600" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "display-lg": ["72px", { "lineHeight": "80px", "letterSpacing": "-0.02em", "fontWeight": "700" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .glass-nav {
+            background: rgba(19, 19, 19, 0.4);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 0.5px solid rgba(212, 175, 55, 0.3);
+        }
+        
+        .gold-border {
+            border: 0.5px solid rgba(212, 175, 55, 0.3);
+        }
+
+        .gold-hover-bg:hover {
+            background-color: rgba(212, 175, 55, 0.1);
+        }
+        
+        .text-gradient {
+            background: linear-gradient(to right, #f2ca50, #d4af37, #f2ca50);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .ambient-glow {
+            box-shadow: 0 0 60px rgba(212, 175, 55, 0.05);
+        }
+
+        /* Hover reveal underline */
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 1px;
+            bottom: -4px;
+            left: 0;
+            background-color: #d4af37;
+            transition: width 0.3s ease;
+        }
+        .nav-link:hover::after {
+            width: 100%;
+        }
+
+        /* Masonry Grid */
+        .masonry {
+            column-count: 1;
+            column-gap: 32px;
+        }
+        @media (min-width: 768px) { .masonry { column-count: 2; } }
+        @media (min-width: 1024px) { .masonry { column-count: 3; } }
+        .masonry-item { break-inside: avoid; margin-bottom: 32px; }
+
+        /* Custom Scrollbar for dark mode luxury */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0e0e0e; }
+        ::-webkit-scrollbar-thumb { background: #353535; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #d4af37; }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body-md antialiased overflow-x-hidden selection:bg-primary-container selection:text-on-primary-container">
+<!-- Top Navigation -->
+<nav class="fixed top-0 w-full z-50 glass-nav transition-all duration-500 ease-in-out">
+<div class="flex justify-between items-center px-margin-mobile md:px-margin-desktop py-6 max-w-[1440px] mx-auto">
+<a class="font-display-lg-mobile md:font-headline-sm text-primary tracking-tight" href="#">Make It Happen</a>
+<div class="hidden md:flex items-center gap-gutter">
+<a class="font-label-caps text-label-caps text-on-surface/80 hover:text-primary transition-colors duration-300 relative nav-link" href="#experience">Experience</a>
+<a class="font-label-caps text-label-caps text-on-surface/80 hover:text-primary transition-colors duration-300 relative nav-link" href="#services">Services</a>
+<a class="font-label-caps text-label-caps text-on-surface/80 hover:text-primary transition-colors duration-300 relative nav-link" href="#work">Our Work</a>
+<a class="font-label-caps text-label-caps text-on-surface/80 hover:text-primary transition-colors duration-300 relative nav-link" href="#story">Our Story</a>
+</div>
+<a class="hidden md:inline-block font-label-caps text-label-caps text-primary border border-primary/30 px-6 py-3 rounded-DEFAULT hover:bg-primary/10 transition-all duration-300" href="#contact">Start Planning</a>
+<button class="md:hidden text-primary">
+<span class="material-symbols-outlined text-3xl">menu</span>
+</button>
+</div>
+</nav>
+<main>
+<!-- Section 1: Hero Cinematic -->
+<section class="relative h-screen w-full flex items-center justify-center overflow-hidden">
+<!-- 3D Scene Background -->
+<div class="absolute inset-0 w-full h-full z-0 opacity-40">
+<!-- STITCH_THREEJS_START:ANIMATION_4 class="absolute inset-0 w-full h-full" -->
+<div class="absolute inset-0 w-full h-full" style="display:block;">
+<script src="https://ajax.googleapis.com/ajax/libs/threejs/r125/three.min.js"></script>
+<div id="threejs-container-ANIMATION_4" style="width:100%;height:100%"></div>
+<script>
+(function() {
+  const container = document.getElementById('threejs-container-ANIMATION_4');
+  const devicePixelRatio = window.devicePixelRatio || 1;
+  
+const width = container.clientWidth || window.innerWidth;
+const height = container.clientHeight || window.innerHeight;
+
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
+camera.position.z = 5;
+
+const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+renderer.setSize(width, height);
+renderer.setPixelRatio(window.devicePixelRatio);
+container.appendChild(renderer.domElement);
+
+// Luxury colors from design system
+const champagne = new THREE.Color(0xF7F3F0);
+const gold = new THREE.Color(0xD4AF37);
+const charcoal = new THREE.Color(0x121212);
+
+// Ambient light
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+scene.add(ambientLight);
+
+// Point light for highlights
+const pointLight = new THREE.PointLight(gold, 1.5);
+pointLight.position.set(5, 5, 5);
+scene.add(pointLight);
+
+// Create a group for the floating elements
+const group = new THREE.Group();
+scene.add(group);
+
+// Create elegant floating abstract shapes representing event "elements"
+// We'll use spheres and cylinders with soft materials
+const geometry1 = new THREE.SphereGeometry(0.8, 32, 32);
+const material1 = new THREE.MeshPhongMaterial({ 
+    color: champagne, 
+    shininess: 100,
+    transparent: true,
+    opacity: 0.8
+});
+const sphere = new THREE.Mesh(geometry1, material1);
+sphere.position.set(-2, 1, 0);
+group.add(sphere);
+
+const geometry2 = new THREE.CylinderGeometry(0.1, 0.1, 3, 32);
+const material2 = new THREE.MeshPhongMaterial({ color: gold, shininess: 150 });
+const rod = new THREE.Mesh(geometry2, material2);
+rod.rotation.z = Math.PI / 4;
+rod.position.set(2, -1, -1);
+group.add(rod);
+
+const geometry3 = new THREE.TorusGeometry(1.2, 0.05, 16, 100);
+const material3 = new THREE.MeshPhongMaterial({ color: gold });
+const ring = new THREE.Mesh(geometry3, material3);
+ring.position.set(0, 0, -2);
+group.add(ring);
+
+// Mouse interaction
+let mouseX = 0;
+let mouseY = 0;
+
+window.addEventListener('mousemove', (event) => {
+    mouseX = (event.clientX / window.innerWidth) * 2 - 1;
+    mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
+});
+
+// Resize listener
+window.addEventListener('resize', () => {
+    const newWidth = container.clientWidth || window.innerWidth;
+    const newHeight = container.clientHeight || window.innerHeight;
+    camera.aspect = newWidth / newHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(newWidth, newHeight);
+});
+
+function animate() {
+    requestAnimationFrame(animate);
+    
+    // Subtle auto-rotation
+    group.rotation.y += 0.002;
+    group.rotation.x += 0.001;
+    
+    // Mouse-based movement for 3D parallax feel
+    group.position.x += (mouseX * 0.5 - group.position.x) * 0.05;
+    group.position.y += (mouseY * 0.5 - group.position.y) * 0.05;
+    
+    sphere.position.y += Math.sin(Date.now() * 0.001) * 0.005;
+    rod.rotation.y += 0.01;
+    
+    renderer.render(scene, camera);
+}
+
+animate();
+
+})();
+</script>
+</div>
+<!-- STITCH_THREEJS_END:ANIMATION_4 -->
+</div>
+<!-- Atmospheric Overlay Image -->
+<div class="absolute inset-0 z-0 bg-cover bg-center opacity-60 mix-blend-overlay" data-alt="A highly cinematic luxury event space bathed in soft, moody atmospheric lighting. High-end editorial style photography featuring warm gold accents against deep charcoal backgrounds, suggesting exclusivity and wealth. Delicate crystal glassware reflects ambient light. New luxury aesthetic, dark mode compatible." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDQmjkc3nrFnam2y60iiBZ7C3SPO04YnsqdEPuq542gW9gq_vWlSBS3OziJfBXGPhXtcA_1zCxmYjz2XjVZolDALvY_XDv-_rrD4-AMQorSzrCS1c1VOiHMfKihlxXPfpk_M0P5lR7orV7RDK9XBr7SZL112WT46TKf5IdKSIJiKpJIWKYqo4T_udWDOXVJBoeRH4aVmefBtr1idyFZMcAZ5OBqTsSm-j0u4i9QhKhOviYSKz8sa5Te')"></div>
+<!-- Gradient Scrim for text readability -->
+<div class="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent z-10"></div>
+<div class="relative z-20 text-center px-margin-mobile flex flex-col items-center max-w-4xl mx-auto mt-20">
+<p class="font-label-caps text-label-caps text-primary-container mb-stack-lg tracking-[0.2em] uppercase">London · UK</p>
+<h1 class="font-display-lg-mobile md:font-display-lg text-display-lg-mobile md:text-display-lg text-on-surface mb-stack-lg leading-tight">
+                    MAKE IT <span class="text-gradient font-display-lg italic">HAPPEN.</span>
+</h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mx-auto mb-12 font-light">
+                    Exceptional events, thoughtfully planned around you. We craft bespoke experiences for a discerning clientele, merging editorial precision with immersive luxury.
+                </p>
+<div class="flex flex-col sm:flex-row gap-6">
+<a class="bg-surface-container-high text-on-surface px-8 py-4 font-label-caps text-label-caps hover:bg-primary-container hover:text-on-primary-container transition-all duration-300 tracking-wider" href="#contact">Plan Your Event</a>
+<a class="bg-transparent border border-primary/30 text-on-surface px-8 py-4 font-label-caps text-label-caps hover:bg-primary/10 transition-all duration-300 tracking-wider" href="#work">Explore Our Work</a>
+</div>
+</div>
+</section>
+<!-- Section 2: The Experience -->
+<section class="py-section-gap px-margin-mobile md:px-margin-desktop max-w-[1440px] mx-auto" id="experience">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter items-center">
+<div class="md:col-span-5 flex flex-col justify-center">
+<p class="font-label-caps text-label-caps text-primary mb-stack-lg">The Experience</p>
+<h2 class="font-display-lg-mobile md:font-headline-md text-display-lg-mobile md:text-headline-md text-on-surface leading-tight mb-stack-lg">
+                        Your vision. <br>
+<span class="text-surface-variant">Our expertise.</span> <br>
+                        An unforgettable experience.
+                    </h2>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-md">
+                        We believe negative space is a luxury. Our approach strips away the noise, focusing on tactile quality, atmospheric lighting, and flawless execution to create events that feel both expansive and intimately yours.
+                    </p>
+</div>
+<div class="md:col-span-7 relative h-[600px] overflow-hidden group">
+<img class="w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out" data-alt="Editorial style portrait of a beautifully styled dining table at a luxury event in London. High-contrast lighting, deep shadows, and soft gold highlights on cutlery and floral centerpieces. Very shallow depth of field. Minimalist and expansive, conveying 'New Luxury' dark aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAtSNVFqrzsY7-uCax4tvV8VQymDeJ6A6BJ1zQDvw4Oxy9w0I8KfLFyEvrWPKKub3bcG16MxGo8b-XTI2zATP35ubbwhBo_7IdiaGysUfgF2-Wa-Qua102E85avAZJwhvt1TOEc03KpmZlpxAwq5u7XwB4Zt6PNgwJArOBmgDSnRmnU8IFKFNDMckzh75Fs7LiPWtdVZ7N3NJ9SqpW3HUbdbpa-q4Cd_8H_7VhN2ZguDRARuhktdGau">
+<div class="absolute inset-0 border border-primary/20 pointer-events-none scale-95 group-hover:scale-100 transition-transform duration-700"></div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-surface-container-lowest py-section-gap px-margin-mobile md:px-margin-desktop border-t border-primary/20">
+<div class="max-w-[1440px] mx-auto flex flex-col md:flex-row justify-between items-start gap-stack-lg">
+<div class="flex flex-col gap-4">
+<span class="font-display-lg-mobile md:font-headline-md text-primary tracking-tight">Make It Happen</span>
+<p class="font-body-md text-body-md text-on-surface-variant">© 2024 Make It Happen Events. All Rights Reserved.</p>
+</div>
+<div class="flex flex-col md:flex-row gap-gutter md:gap-24">
+<div class="flex flex-col gap-4">
+<a class="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Privacy Policy</a>
+<a class="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Terms of Service</a>
+</div>
+<div class="flex flex-col gap-4">
+<a class="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Press Enquiries</a>
+<a class="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Careers</a>
+</div>
+</div>
+</div>
+</footer>
+</body></html>

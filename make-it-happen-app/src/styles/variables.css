@@ -1,0 +1,139 @@
+/* ============================================================
+   MAKE IT HAPPEN — AURELIAN EDITORIAL DESIGN SYSTEM TOKENS
+   Source of truth for all color, typography, spacing, animation
+   ============================================================ */
+
+:root {
+  /* --- Colors --- */
+  --color-primary:                #f2ca50;
+  --color-primary-container:      #d4af37;
+  --color-primary-fixed:          #ffe088;
+  --color-primary-fixed-dim:      #e9c349;
+  --color-on-primary:             #3c2f00;
+  --color-on-primary-container:   #554300;
+  --color-on-primary-fixed:       #241a00;
+  --color-on-primary-fixed-variant: #574500;
+  --color-inverse-primary:        #735c00;
+
+  --color-secondary:              #c9c6c3;
+  --color-secondary-container:    #484745;
+  --color-secondary-fixed:        #e5e2df;
+  --color-secondary-fixed-dim:    #c9c6c3;
+  --color-on-secondary:           #31302f;
+  --color-on-secondary-container: #b7b4b2;
+  --color-on-secondary-fixed:     #1c1b1a;
+  --color-on-secondary-fixed-variant: #484745;
+
+  --color-tertiary:               #d0cecd;
+  --color-tertiary-container:     #b5b2b2;
+  --color-tertiary-fixed:         #e5e2e1;
+  --color-tertiary-fixed-dim:     #c8c6c5;
+  --color-on-tertiary:            #313030;
+  --color-on-tertiary-container:  #454545;
+  --color-on-tertiary-fixed:      #1c1b1b;
+  --color-on-tertiary-fixed-variant: #474646;
+
+  --color-surface:                #131313;
+  --color-surface-dim:            #131313;
+  --color-surface-bright:         #393939;
+  --color-surface-container-lowest: #0e0e0e;
+  --color-surface-container-low: #1b1c1c;
+  --color-surface-container:     #1f2020;
+  --color-surface-container-high: #2a2a2a;
+  --color-surface-container-highest: #353535;
+  --color-surface-variant:        #353535;
+  --color-surface-tint:           #e9c349;
+  --color-on-surface:             #e4e2e1;
+  --color-on-surface-variant:     #d0c5af;
+  --color-inverse-surface:        #e4e2e1;
+  --color-inverse-on-surface:     #303030;
+
+  --color-background:             #131313;
+  --color-on-background:          #e4e2e1;
+
+  --color-outline:                #99907c;
+  --color-outline-variant:        #4d4635;
+
+  --color-error:                  #ffb4ab;
+  --color-error-container:        #93000a;
+  --color-on-error:               #690005;
+  --color-on-error-container:     #ffdad6;
+
+  /* --- Gold Shortcuts (used directly in CSS) --- */
+  --gold:                         #d4af37;
+  --gold-light:                   #f2ca50;
+  --gold-faint:                   rgba(212, 175, 55, 0.15);
+  --gold-glow:                    rgba(212, 175, 55, 0.3);
+  --gold-glow-strong:             rgba(212, 175, 55, 0.6);
+
+  /* --- Typography Scale --- */
+  --font-serif:     'Playfair Display', Georgia, serif;
+  --font-sans:      'Inter', system-ui, sans-serif;
+
+  --text-display-lg-size:         72px;
+  --text-display-lg-line:         80px;
+  --text-display-lg-spacing:      -0.02em;
+  --text-display-lg-weight:       700;
+
+  --text-display-mobile-size:     40px;
+  --text-display-mobile-line:     48px;
+  --text-display-mobile-spacing:  -0.01em;
+  --text-display-mobile-weight:   700;
+
+  --text-headline-md-size:        32px;
+  --text-headline-md-line:        40px;
+  --text-headline-md-weight:      600;
+
+  --text-headline-sm-size:        24px;
+  --text-headline-sm-line:        32px;
+  --text-headline-sm-weight:      600;
+
+  --text-body-lg-size:            18px;
+  --text-body-lg-line:            28px;
+  --text-body-lg-weight:          400;
+
+  --text-body-md-size:            16px;
+  --text-body-md-line:            24px;
+  --text-body-md-weight:          400;
+
+  --text-label-caps-size:         12px;
+  --text-label-caps-line:         16px;
+  --text-label-caps-weight:       600;
+  --text-label-caps-spacing:      0.1em;
+
+  /* --- Spacing --- */
+  --margin-desktop:   80px;
+  --margin-mobile:    24px;
+  --gutter:           32px;
+  --section-gap:      160px;
+  --stack-sm:         8px;
+  --stack-md:         16px;
+  --stack-lg:         32px;
+
+  /* --- Border Radius --- */
+  --radius-sm:     2px;      /* DEFAULT */
+  --radius-md:     4px;      /* lg */
+  --radius-lg:     8px;      /* xl */
+  --radius-full:   12px;     /* full */
+
+  /* --- Shadows --- */
+  --shadow-gold-ambient:   0 0 80px rgba(212, 175, 55, 0.15);
+  --shadow-gold-glow:      0 0 40px rgba(212, 175, 55, 0.2);
+  --shadow-black-heavy:    0 30px 100px rgba(0, 0, 0, 0.8);
+  --shadow-card:           0 24px 40px -12px rgba(0, 0, 0, 0.5);
+
+  /* --- Glassmorphism --- */
+  --glass-bg:              rgba(19, 19, 19, 0.6);
+  --glass-blur:            blur(24px);
+  --glass-border:          1px solid rgba(212, 175, 55, 0.15);
+
+  /* --- Transitions --- */
+  --transition-fast:       0.2s ease;
+  --transition-base:       0.3s ease;
+  --transition-slow:       0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --transition-spring:     0.5s cubic-bezier(0.25, 1, 0.5, 1);
+
+  /* --- 3D --- */
+  --perspective:           2000px;
+  --nav-height:            80px;
+}

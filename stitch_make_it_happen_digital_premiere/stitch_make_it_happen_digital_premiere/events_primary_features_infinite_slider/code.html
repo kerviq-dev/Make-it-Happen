@@ -1,0 +1,346 @@
+<!DOCTYPE html><html class="dark" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Events - Make It Happen Events</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;family=Inter:wght@100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "secondary": "#c9c6c3",
+                        "inverse-surface": "#e4e2e1",
+                        "on-tertiary-container": "#454545",
+                        "on-error-container": "#ffdad6",
+                        "error": "#ffb4ab",
+                        "on-tertiary": "#313030",
+                        "on-primary": "#3c2f00",
+                        "on-primary-fixed": "#241a00",
+                        "tertiary-fixed": "#e5e2e1",
+                        "on-surface-variant": "#d0c5af",
+                        "on-secondary-container": "#b7b4b2",
+                        "inverse-primary": "#735c00",
+                        "secondary-fixed-dim": "#c9c6c3",
+                        "secondary-fixed": "#e5e2df",
+                        "surface-variant": "#353535",
+                        "surface-container-highest": "#353535",
+                        "surface-dim": "#131313",
+                        "on-background": "#e4e2e1",
+                        "tertiary-container": "#b5b2b2",
+                        "surface-container-low": "#1b1c1c",
+                        "primary": "#f2ca50",
+                        "surface-bright": "#393939",
+                        "secondary-container": "#484745",
+                        "primary-container": "#d4af37",
+                        "surface-tint": "#e9c349",
+                        "on-error": "#690005",
+                        "outline": "#99907c",
+                        "surface": "#131313",
+                        "tertiary-fixed-dim": "#c8c6c5",
+                        "primary-fixed-dim": "#e9c349",
+                        "error-container": "#93000a",
+                        "tertiary": "#d0cecd",
+                        "background": "#131313",
+                        "on-primary-container": "#554300",
+                        "surface-container-lowest": "#0e0e0e",
+                        "on-primary-fixed-variant": "#574500",
+                        "outline-variant": "#4d4635",
+                        "inverse-on-surface": "#303030",
+                        "on-tertiary-fixed-variant": "#474646",
+                        "on-surface": "#e4e2e1",
+                        "primary-fixed": "#ffe088",
+                        "surface-container-high": "#2a2a2a",
+                        "on-secondary": "#31302f",
+                        "on-secondary-fixed-variant": "#484745",
+                        "on-tertiary-fixed": "#1c1b1b",
+                        "surface-container": "#1f2020",
+                        "on-secondary-fixed": "#1c1b1a"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "stack-sm": "8px",
+                        "stack-md": "16px",
+                        "margin-mobile": "24px",
+                        "section-gap": "160px",
+                        "margin-desktop": "80px",
+                        "stack-lg": "32px",
+                        "gutter": "32px"
+                    },
+                    "fontFamily": {
+                        "headline-sm": ["Playfair Display"],
+                        "body-md": ["Inter"],
+                        "display-lg-mobile": ["Playfair Display"],
+                        "label-caps": ["Inter"],
+                        "display-lg": ["Playfair Display"],
+                        "body-lg": ["Inter"],
+                        "headline-md": ["Playfair Display"]
+                    },
+                    "fontSize": {
+                        "headline-sm": ["24px", { "lineHeight": "32px", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "display-lg-mobile": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }],
+                        "display-lg": ["72px", { "lineHeight": "80px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "headline-md": ["32px", { "lineHeight": "40px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .glass-panel {
+            background: rgba(26, 26, 26, 0.4);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 0.5px solid rgba(212, 175, 55, 0.3);
+        }
+        .text-glow {
+            text-shadow: 0 0 40px rgba(212, 175, 55, 0.4);
+        }
+        .image-zoom-container:hover .zoom-image {
+            transform: scale(1.05);
+        }
+        .zoom-image {
+            transition: transform 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        /* Custom scrollbar for webkit */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #131313;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(212, 175, 55, 0.3);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(212, 175, 55, 0.6);
+        }
+
+        @keyframes scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+        .animate-scroll {
+            animation: scroll 40s linear infinite;
+        }
+        .animate-scroll:hover {
+            animation-play-state: paused;
+        }
+    </style>
+</head>
+<body class="bg-background text-on-surface antialiased selection:bg-primary/30 selection:text-primary">
+<!-- TopNavBar -->
+<nav class="fixed top-0 w-full backdrop-blur-xl border-b border-primary/30 shadow-[0_20px_50px_rgba(212,175,55,0.1)] bg-surface/10 dark:bg-surface/10 z-50">
+<div class="flex justify-between items-center px-margin-desktop py-stack-md w-full max-md:px-margin-mobile">
+<div class="font-headline-sm text-headline-sm tracking-widest text-primary cursor-pointer active:scale-95 transition-transform">
+                MAKE IT HAPPEN
+            </div>
+<div class="hidden md:flex gap-gutter items-center">
+<a class="font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors duration-300" href="#">Our Story</a>
+<a class="font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors duration-300" href="#">Services</a>
+<a class="font-label-caps text-label-caps text-primary border-b border-primary pb-1" href="#">Events</a>
+<a class="font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors duration-300" href="#">Work</a>
+<a class="font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors duration-300" href="#">Experience</a>
+<a class="font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors duration-300" href="#">Contact</a>
+</div>
+<div class="hidden md:flex">
+<button class="font-label-caps text-label-caps bg-on-surface text-surface hover:bg-primary hover:text-on-primary px-6 py-3 rounded-none transition-colors duration-300">
+                    Inquire Now
+                </button>
+</div>
+<!-- Mobile Menu Icon (Visual Only) -->
+<div class="md:hidden text-primary cursor-pointer">
+<span class="material-symbols-outlined" style="font-size: 28px;">menu</span>
+</div>
+</div>
+</nav>
+<!-- Main Content Canvas -->
+<main class="relative w-full overflow-hidden pt-[120px]">
+<!-- Ambient Background Effects -->
+<div class="fixed top-[-20%] left-[-10%] w-[60vw] h-[60vw] rounded-full bg-primary/5 blur-[120px] pointer-events-none z-0"></div>
+<div class="fixed bottom-[-20%] right-[-10%] w-[50vw] h-[50vw] rounded-full bg-surface-variant/40 blur-[100px] pointer-events-none z-0"></div>
+<!-- Header Section -->
+<section class="relative z-10 px-margin-desktop max-md:px-margin-mobile pt-section-gap pb-margin-desktop max-w-[1440px] mx-auto flex flex-col items-center justify-center text-center min-h-[614px]">
+<h1 class="font-display-lg text-display-lg max-md:font-display-lg-mobile max-md:text-display-lg-mobile text-primary text-glow mb-stack-md leading-tight">
+                Curated Excellence
+            </h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl">
+                A portfolio of avant-garde experiences, meticulously designed for the world's most discerning individuals and organizations.
+            </p>
+</section>
+<!-- Editorial Stack Grid -->
+<div class="relative z-10 max-w-[1440px] mx-auto px-margin-desktop max-md:px-margin-mobile pb-section-gap">
+<!-- Weddings Tier -->
+<section class="mb-section-gap relative">
+<div class="flex items-center gap-stack-md mb-stack-lg">
+<span class="w-12 h-[1px] bg-primary/50 block"></span>
+<h2 class="font-label-caps text-label-caps text-primary tracking-widest uppercase">Weddings</h2>
+</div>
+<div class="grid grid-cols-12 gap-gutter relative">
+<!-- Layer 1: Background Image -->
+<div class="col-span-12 md:col-span-8 md:col-start-1 h-[600px] relative overflow-hidden image-zoom-container z-10">
+<img alt="Luxury Wedding" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDoZlBo0tdH5X7fHtIODUFMJnywStf2M1PZvz9cMG-X9WhM8PTSUzx2yxO2sFNChAYt2nFbw7WUTieqVF_tCesMQiycRD4KWGv0ebglZIH0XzE2JYvFnwSsZiTrBGyvo5wA962GozZgBFFNQbz2yfqDIZ1UVsnIUj-9o39uYhr0iABzFXnovLCQzemHsmiz55uFFzgMCYF2iwgjGq74TAZJ2B9mA66-NzDwsA0Mrv0atOCaBkAanYYj">
+<div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent opacity-80"></div>
+</div>
+<!-- Layer 2: Overlapping Glass Card -->
+<div class="col-span-12 md:col-span-5 md:col-start-7 max-md:-mt-24 md:absolute md:top-1/4 md:right-[5%] glass-panel p-margin-mobile z-20">
+<h3 class="font-headline-md text-headline-md text-primary mb-stack-sm md:-ml-12 text-glow relative z-30">Timeless Unions</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-stack-lg">Unforgettable celebrations of love, seamlessly blending refined elegance with deeply personal touches. Our wedding designs transform breathtaking venues into intimate masterpieces.</p>
+<a class="inline-flex items-center font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors group" href="#">
+                            EXPLORE WEDDINGS
+                            <span class="material-symbols-outlined ml-2 group-hover:translate-x-1 transition-transform" style="font-size: 16px;">arrow_forward</span>
+</a>
+</div>
+</div>
+</section>
+<!-- Special Occasions Tier -->
+<section class="mb-section-gap relative">
+<div class="flex items-center justify-end gap-stack-md mb-stack-lg md:text-right">
+<h2 class="font-label-caps text-label-caps text-primary tracking-widest uppercase">Special Occasions</h2>
+<span class="w-12 h-[1px] bg-primary/50 block hidden md:block"></span>
+</div>
+<div class="grid grid-cols-12 gap-gutter relative">
+<!-- Overlapping Glass Card (Left this time) -->
+<div class="col-span-12 md:col-span-5 md:col-start-2 max-md:mb-8 md:absolute md:top-1/3 md:left-[5%] glass-panel p-margin-mobile z-20">
+<h3 class="font-headline-md text-headline-md text-primary mb-stack-sm md:translate-x-12 text-glow relative z-30 md:text-right">Bespoke Gatherings</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-stack-lg">From milestone anniversaries to intimate private soirées, we craft unique atmospheres tailored to the essence of the celebration, ensuring every detail exudes sophisticated luxury.</p>
+<div class="flex md:justify-end">
+<a class="inline-flex items-center font-label-caps text-label-caps text-on-surface hover:text-primary transition-colors group" href="#">
+                                VIEW OCCASIONS
+                                <span class="material-symbols-outlined ml-2 group-hover:translate-x-1 transition-transform" style="font-size: 16px;">arrow_forward</span>
+</a>
+</div>
+</div>
+<!-- Background Image (Right aligned) -->
+<div class="col-span-12 md:col-span-8 md:col-start-5 h-[500px] relative overflow-hidden image-zoom-container z-10">
+<img alt="Special Occasion" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA2R8YndYBcZ7vJSHHsRCB6wcm71fQInw5ENTouA5CTy-zCoRJr8iMq91v8E3JNjToLNn9epsvHXblpyVYwkORzTEhYm5DFSgN_7BSVJOE3R7krzGVbU5qSZ0-75sCB_tWy2_p8mMNrSkGN0SWJf7_Phni6HgwXfkGUJ4K1VcmUmtDjETK__2nLzp_gDdR_UGXdZPUOtT7ymztJPCz48b6ZeW6hXcqL4oKBtXhF21cFNjGXDL-zRPWh">
+<div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent opacity-80"></div>
+</div>
+</div>
+</section>
+</div>
+<!-- Infinite Scroll Event Categories -->
+<section class="relative z-10 w-full overflow-hidden pb-section-gap pt-stack-lg">
+<div class="max-w-[1440px] mx-auto px-margin-desktop max-md:px-margin-mobile mb-stack-lg">
+<div class="flex items-center gap-stack-md">
+<span class="w-12 h-[1px] bg-primary/50 block"></span>
+<h2 class="font-label-caps text-label-caps text-primary tracking-widest uppercase">More Experiences</h2>
+</div>
+</div>
+<div class="flex w-max animate-scroll gap-6 px-6">
+<!-- Original Set -->
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Birthdays &amp; Celebrations" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAhYL65tOY2EtCHCQCwO42AYJs6g7KG8CVRm5W7fr41cyS3KK7FO8x1VIQlyUrh1bT1J_ulSdQZaiyhhU6moqDRUN_RYXI5QnZySWTxdWcUxruLNZAAxnURYBCxvwy6-wHNrzENUleGrB_2YO47K0XVAqQnoM1D7q9hFePyFFU05Wq5GYeesSjp1A05p2T9dLyzaHtc8Kx5DwSw4NRdH9UgRlPJ_9OC8yraXEezKZr0snE0W2mW_sfD">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Birthdays &amp; Celebrations</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Engagement Parties" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDlleCzK_MQvXf0cHpHIkEK7-e71T1SKODdtUJCkgM40kbDf_AWhC1PU7gUPCQPtSlH1G66og6FXIuUtGuU-E8LnM-cI-dYjve75HozKQLSVvzA8wzbBEFiWIlmJVDsumWKGQB11cFR-506w8D_9xXb-EMiO3scNPaQ-i17At90kdmy_HtaoR7L3ZnLSkR_BQirRYBBcMudO-26iLC8RDaPpf6on7djl0bDaS26BZcQMuRou6dlZIr2">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Engagement Parties</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Blessingsway" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAY1QQrY5IgRzMylMz_WzrImyi5yMmy16U_B3itErmY4JuicV4md5ln_tdFW8mLGqRDAVoIcLGZEH70WFllbxWTCS61du9NCghLNi9X6Oig2_-30qscQCST-AeooCRqbynYP0F81TlCR9Rd4T-W0s5Z6jFPmBaSGHnd85L4tI5xvnAQHRHd6zqCzp2pViLGXnc5B3qSaKrp7qHBXat_t6Amdwh4V6-kJVnDCOY-X8qTv_mfBtcrE3mU">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Blessingsway</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Graduations" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDlLh8hXebD4X8bpvEQkXtJ8qd8VLU7KCKJCSfV64i6RphYT5jRcJYYmI8QmN7deg_D480AZsp5_KCxKTeoqaPrMwOThneTZCbSS9gzh0IGFbdBCGkz_oTelifzg8DtRUswzS1epsFBcdCZMy_J7Kdezcsr-GTTAbLEq2VNrG9EFD-CtQiAYdJeS_c1KOeB8YbonwV3kqZq1SB71bKV8bjkFW3WjTwuRcJx-BKjVSc4gy-MnJsg2SXJ">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Graduations</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Church Events" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCc2ZOm-b5YUz79t4WZeKBkuMfSh-jw-JfWlsT6Qu7mKC37scyjj48t7OEABWtCuC9Fd2JOfGhJwVAIsYLCoVaZ-IKUbJUX-bXx6krQ064MRTdy8nL18PsKuG7Q7aSg8PApHxK2AKQxHWPPEkeLM9CJsBwAuXsIJdUxxdWvmNSQziDj1dTsRLFxc3GmrqjChJ9LQPn0vXKRMC0-mdO4OAQpy-C2LsFFOU4JaOVUC-5oW82BfHSvwr8U">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Church Events</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Corporate Events" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBH1P952ZjTykeqWK6yc1K7boI7HjcrIgehV0RMWlE1YFDJ-2gjoAIbGNjDndEh37JdpR9UHQFxHaeWEASNA8SSvBdzuB5TSgbUvTcXRESmQr1MIwetKQZdd2dO0_Y9gTNEIkiIOGM6SOmNoC2E6y2J9vSQDcvGRLxMC0FIs29F4bcmYV6fd_DLQcxBtRm_u3ihrS0J0u7dBjyWSnTjXIjRfWoga3TmJsx7jE8OWYg1l58q3x2tEW0_">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Corporate Events</h4>
+</div>
+</div>
+<!-- Duplicated Set for Infinite Scroll -->
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Birthdays &amp; Celebrations" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBcP7mkDS08bzGYZOKZLCnRw37b3ZajHijr1D_M75qF-4TMoD-wOdePIxvinqdxq4WCRW4SGpYAR2uuuXn6dBHHtTHNa9yYf4lZqJQvgYDgTOD26IuWALmP9-aBUp3-10Wej7a8oNNSAR1pX2Ldw9YAZ8EVTwqxKKVbAQkRg99Q6DYgqhJ16_3KxClFAsKFXcUnySW9EAedhOJLbYwuQ2Cxpn2Osb0ZD4NyhejluDUuf0iWWBmPSkja">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Birthdays &amp; Celebrations</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Engagement Parties" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBbs0TF8h4OsrVk9KwFp859nZqIi-DCbaQoWzUqngGE-V2PnmfUWyWzhz4w1g_DLEy5IV5638yN3wlGIPV6tKvIzzY20J6Nx6o4BXNDF6V5Fgucht0HClSngAMurn8s0KivqQEg4qpuO907bStYSK2K_mF6EHbz4KsQtcDXv3_ZQzNLyTP8Rk-Wbd10nGnHJ05GA38i0YKpJNeInVmWdL-lnndKRnubjmkW5ahQgZhiWzHmjuBsy9ZF">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Engagement Parties</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Blessingsway" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAtG-BcClA6i2K20xwxM51KlKY-wvhlJ5HtDqqZsLL-R9TjckHkKr8_dzmIdtIS5Nd8j_37liD19fl6Nan7P45o6fs8Vp4a9-bitxNdt_nE_OuNjFtbdF6h2TAYkwcPkg-3HVKnIFB1j_FFyjpS3EhoEvc8tlA-o5hFmi9Z45AenpXocrZo3QFz9-hg1GtEv7NR5xPKAXk_WTfvSWo68a0o0xkpDAjuHVKNzKDdvW8Pb9VZgOqDt4YK">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Blessingsway</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Graduations" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAvIh05ezPJC11RqqAuoW9Ts6YvSK3J1DUF6rPNNgqW0r6M55efV3NmaKAE6ZYLVl02iCPNf6WnlUhvhzgitwOFA_OGbXnrCVvrnySVfEBKA8DzFLd4BcoFEW_b8CEZaNn4-7mdXzJUUg7r8jbdYsBFaG3piekjRfINgOWgBTuKWpYGaJ9RxwEU8uSMns8pyl5NIqMlmy7CZD8odtIyoSRU1q1Ko_HYUeO4OfrxEHRlSTjjNKDlgUBj">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Graduations</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Church Events" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBish5_0AxPae1v53_foQXNCmaEjIcK1T3Um3uSG6OoTdCPE8uPQ8VRbXpeswWdVcivOYvX-Lan1K3eciOL4x_3_zDxGpWaVUTTcK1E3n9p7YIEbOQakUWevakKoJEQ3s4o-XUL1ATUQ56KoW4esSsUDxplzfB5ABfurLzolgD1iVDNYPro4EGngPSyjZdVTuH1QdwN9vVB4GZegin7BH9Ak-PHaN7Qpkns2hzMh_HtIRMNplPAKVSq">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Church Events</h4>
+</div>
+</div>
+<div class="relative w-[350px] h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-sm">
+<img alt="Corporate Events" class="w-full h-full object-cover zoom-image" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAEArKtn_atfqaNJ981uZ877HtgFPtvce6e03S9a1OfqOy3VO0m-0adD91NJhJydxXoEVy5WwV5KWnd687wfoT3a78kEfXzytUzx4utoX2oGV9MFKVxAzwxnP3X_W92Gh3L9Ci6Pn0OLvuIy17JnbdXqps4Anqpa-RZZAY9RexSo1lt5NuELSqSNFgoTUMU8Z_oaSE2F8phWRtpNJL286c7VNa7kOLvbOKU_W9Er7p7d18hmILOJlfD">
+<div class="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent"></div>
+<div class="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0">
+<h4 class="font-headline-sm text-headline-sm text-primary">Corporate Events</h4>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="w-full border-t border-outline-variant flat bg-surface dark:bg-surface flex flex-col items-center justify-center py-section-gap px-margin-desktop max-md:px-margin-mobile">
+<div class="font-headline-sm text-headline-sm text-primary mb-stack-lg">
+            MAKE IT HAPPEN
+        </div>
+<div class="flex gap-gutter mb-stack-lg">
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary hover:underline decoration-primary underline-offset-4 transition-opacity duration-300" href="#">Privacy Policy</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary hover:underline decoration-primary underline-offset-4 transition-opacity duration-300" href="#">Terms of Service</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary hover:underline decoration-primary underline-offset-4 transition-opacity duration-300" href="#">Press Kit</a>
+</div>
+<div class="font-label-caps text-label-caps text-on-surface-variant text-center max-w-md">
+            © 2024 MAKE IT HAPPEN EVENTS. ARCHITECTS OF EXTRAORDINARY MOMENTS.
+        </div>
+</footer>
+</body></html>
