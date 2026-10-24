@@ -29,3 +29,8 @@ Thumbs.db
 # Local execution wrappers
 powershell.bat
 make-it-happen-app/powershell.bat
+
+# Reference & design assets (local only)
+Reference/
+stitch_make_it_happen_digital_premiere/
+Logo.jpeg
