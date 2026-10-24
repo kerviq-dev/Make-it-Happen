@@ -236,4 +236,5 @@ vercel
 **© 2026 Make It Happen Events. All Rights Reserved.**  
 *Extraordinary moments are made to be remembered.*
 
-</div>
+</div>#   M a k e - i t - H a p p e n  
+ 
