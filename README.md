@@ -1,44 +1,41 @@
-<p align="center">
-  <img src="make-it-happen-app/public/Logo.jpeg" alt="Make It Happen Events Logo" width="130" height="130" style="border-radius: 50%;" />
-</p>
+# Make It Happen Events — London Atelier
 
-<h1 align="center">MAKE IT HAPPEN EVENTS</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Bespoke Luxury Event Planning & Architectural Experience Platform</strong><br>
-  <em>London · United Kingdom</em>
-</p>
+<img src="make-it-happen-app/public/Logo.jpeg" alt="Make It Happen Events" width="130" height="130" style="border-radius: 50%;" />
 
-<p align="center">
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" /></a>
-  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-5.4.8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 5" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-3.4.14-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
-  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-0.167.1-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-Turnkey%20Deploy-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Ready" /></a>
-  <img src="https://img.shields.io/badge/Location-London%20%C2%B7%20UK-D4A13A?style=flat-square" alt="London UK" />
-</p>
+# MAKE IT HAPPEN EVENTS
+### Bespoke Luxury Event Planning & Architectural Experience Platform
+**London · United Kingdom**
 
-<p align="center">
-  <a href="#-overview">Overview</a> •
-  <a href="#-key-features">Features</a> •
-  <a href="#-route-architecture">Routes</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-quickstart">Quickstart</a> •
-  <a href="#-vercel-deployment">Vercel Deployment</a> •
-  <a href="#-atelier-contact">Contact</a>
-</p>
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-5.4.8-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.14-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-0.167.1-black?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-Turnkey%20Deploy-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Location](https://img.shields.io/badge/Location-London%20·%20UK-D4A13A?style=flat-square)](#)
+
+[Executive Overview](#executive-overview) &nbsp;|&nbsp;
+[Key Features](#key-features) &nbsp;|&nbsp;
+[Route Architecture](#route-architecture) &nbsp;|&nbsp;
+[Tech Stack](#tech-stack) &nbsp;|&nbsp;
+[Quickstart](#quickstart) &nbsp;|&nbsp;
+[Vercel Deployment](#vercel-deployment) &nbsp;|&nbsp;
+[Contact](#contact)
+
+</div>
 
 ---
 
-## 🌟 Overview
+## Executive Overview
 
-**Make It Happen Events** is a modern, high-performance web application designed for a luxury event planning atelier based in London, UK. Built with an **Aurelian Editorial** design philosophy, the interface unites warm champagne surfaces (`#F3E4D6`), blush rose accents (`#D77A91`), rich gold highlights (`#D4A13A`), autonomous Three.js 3D motion, and editorial serif typography.
+**Make It Happen Events** is a modern, high-performance web platform designed for a luxury event planning atelier based in London, UK. Built with an **Aurelian Editorial** design philosophy, the interface unites warm champagne surfaces (`#F3E4D6`), blush rose accents (`#D77A91`), rich gold highlights (`#D4A13A`), autonomous Three.js 3D motion, and editorial serif typography.
 
 From high-profile weddings in Kensington to bespoke galas in Mayfair and private soirées, this platform provides an immersive digital showcase and an instant WhatsApp-first booking conduit.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Autonomous 3D WebGL Canvas (`HeroScene`)**: Real-time Three.js WebGL canvas rendered with autonomous orbital kinetics (zero mouse dependency required), featuring champagne spheres, gold rods, and starlight particles.
 - **Holographic Investment Showcase**: Interactive package cards with 3D perspectives, glowing scanlines, and deep-linked selection for:
@@ -56,7 +53,7 @@ From high-profile weddings in Kensington to bespoke galas in Mayfair and private
 
 ---
 
-## 🗺️ Route Architecture
+## Route Architecture
 
 Built with modern Single Page Application (SPA) routing with instant scroll restoration and smooth page-fade transitions:
 
@@ -75,7 +72,7 @@ Built with modern Single Page Application (SPA) routing with instant scroll rest
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Version / Spec |
 | :--- | :--- | :--- |
@@ -91,7 +88,7 @@ Built with modern Single Page Application (SPA) routing with instant scroll rest
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Make-it-Happen/
@@ -132,7 +129,7 @@ Make-it-Happen/
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### Prerequisites
 - **Node.js**: v18.0.0 or higher
@@ -162,7 +159,7 @@ Make-it-Happen/
 
 ---
 
-## ☁️ Vercel Deployment
+## Vercel Deployment
 
 This project includes turnkey configuration for Vercel.
 
@@ -177,7 +174,7 @@ Vercel will automatically read [`vercel.json`](vercel.json), run `cd make-it-hap
 
 ---
 
-## 📞 Atelier Contact
+## Atelier Contact
 
 | Channel | Details | Action |
 | :--- | :--- | :--- |
@@ -189,8 +186,9 @@ Vercel will automatically read [`vercel.json`](vercel.json), run `cd make-it-hap
 
 ---
 
-<p align="center">
-  <strong>© 2026 Make It Happen Events. All Rights Reserved.</strong><br>
-  <em>Extraordinary moments are made to be remembered.</em>
-</p>#   M a k e - i t - H a p p e n  
- 
+<div align="center">
+
+**© 2026 Make It Happen Events. All Rights Reserved.**  
+*Extraordinary moments are made to be remembered.*
+
+</div>
