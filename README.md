@@ -192,4 +192,5 @@ Vercel will automatically read [`vercel.json`](vercel.json), run `cd make-it-hap
 <p align="center">
   <strong>© 2026 Make It Happen Events. All Rights Reserved.</strong><br>
   <em>Extraordinary moments are made to be remembered.</em>
-</p>
+</p>#   M a k e - i t - H a p p e n  
+ 
