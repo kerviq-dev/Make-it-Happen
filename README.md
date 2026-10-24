@@ -1,82 +1,58 @@
-# Make It Happen Events — London Atelier
+<p align="center">
+  <img src="make-it-happen-app/public/Logo.jpeg" alt="Make It Happen Events Logo" width="130" height="130" style="border-radius: 50%;" />
+</p>
 
-<div align="center">
-
-![Make It Happen Events Logo](make-it-happen-app/public/Logo.jpeg)
-
-# MAKE IT HAPPEN EVENTS
-### *Bespoke Luxury Event Planning & Architectural Experience Platform*
-**London · United Kingdom**
-
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5.4.8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.14-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-0.167.1-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Vercel](https://img.shields.io/badge/Vercel-Turnkey%20Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-D4A13A?style=for-the-badge)](#)
+<h1 align="center">MAKE IT HAPPEN EVENTS</h1>
 
 <p align="center">
-  <a href="#-executive-overview">Executive Overview</a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-route-architecture">Route Architecture</a> •
+  <strong>Bespoke Luxury Event Planning & Architectural Experience Platform</strong><br>
+  <em>London · United Kingdom</em>
+</p>
+
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-5.4.8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 5" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-3.4.14-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-0.167.1-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-Turnkey%20Deploy-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Ready" /></a>
+  <img src="https://img.shields.io/badge/Location-London%20%C2%B7%20UK-D4A13A?style=flat-square" alt="London UK" />
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-key-features">Features</a> •
+  <a href="#-route-architecture">Routes</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-quickstart--local-development">Quickstart</a> •
-  <a href="#-vercel-deployment-guide">Vercel Deployment</a> •
-  <a href="#-contact--atelier-hotline">Contact</a>
+  <a href="#-quickstart">Quickstart</a> •
+  <a href="#-vercel-deployment">Vercel Deployment</a> •
+  <a href="#-atelier-contact">Contact</a>
 </p>
 
 ---
 
-</div>
+## 🌟 Overview
 
-## 🏛️ Executive Overview
+**Make It Happen Events** is a modern, high-performance web application designed for a luxury event planning atelier based in London, UK. Built with an **Aurelian Editorial** design philosophy, the interface unites warm champagne surfaces (`#F3E4D6`), blush rose accents (`#D77A91`), rich gold highlights (`#D4A13A`), autonomous Three.js 3D motion, and editorial serif typography.
 
-**Make It Happen Events** is a modern, high-performance digital platform crafted for London's premier luxury event planning atelier. Rooted in British editorial sensibility and bespoke architectural event design, the platform serves high-profile private clients, milestone celebrations, society weddings, and corporate galas across Mayfair, Belgravia, Kensington, Westminster, and worldwide commissions.
-
-The digital identity blends an **Aurelian Editorial** aesthetic:
-- **Warm Champagne & Nude Cream Canvas** (`#F3E4D6`, `#FAF4EE`)
-- **Delicate Blush Rose** (`#D77A91`)
-- **Royal Champagne Gold Accents** (`#D4A13A`)
-- **Architectural Midnight Footer** (`#090909`) with celestial astrolabe filigree
-- **Autonomous WebGL Three.js 3D motion** paired with *Playfair Display* serif headlines and *Inter* metrics
+From high-profile weddings in Kensington to bespoke galas in Mayfair and private soirées, this platform provides an immersive digital showcase and an instant WhatsApp-first booking conduit.
 
 ---
 
 ## ✨ Key Features
 
-### 🌌 1. Autonomous 3D WebGL Canvas (`HeroScene`)
-- Real-time Three.js WebGL canvas rendered with autonomous orbital kinetics (zero mouse dependency required).
-- Features floating champagne spheres, gold cylinders, blush orbital rings, and dynamic starlight particles.
-- Fully responsive with automatic device pixel ratio throttling and resource disposal on route dismount to prevent memory leaks.
-
-### 💎 2. Holographic Investment Showcase & Comparison Matrix
-- **Three Core Tiers**:
-  - **Essential Package (`£350`)**: Timeline creation, event consultation, and curated vendor recommendations.
-  - **Standard Package (`£700`)**: Concept design, styling, vendor coordination, and on-the-day coordination.
-  - **Premium Luxury (`£1,000`)**: Full event management, venue sourcing, luxury styling, and VIP concierge stewardship.
-- **Interactive Comparison Modal**: Comprehensive matrix comparing all features, deliverables, and on-site coverage side-by-side.
-- **Deep-Linked CTAs**: Selecting any tier automatically pre-populates the planning inquiry with that specific package.
-
-### 🖼️ 3. Interactive Celestial Marquee & Lightbox Gallery
-- Continuous GPU-accelerated horizontal orbital marquee with smooth pause-on-hover mechanics.
-- **Interactive Lightbox Modal**: Tapping any circular orb opens full-screen high-resolution photography, venue details (e.g. *The Shard*, *Belgravia*, *Kensington*), architectural descriptions, and a direct **"Inquire About This Style"** CTA.
-
-### 🕊️ 4. Curated Events & Infinite Category Slider
-- Dedicated editorial features for **Weddings** (*Timeless Unions*) and **Special Occasions** (*Bespoke Gatherings*).
-- **Infinite Category Slider**: Seamless looped strip covering *Birthdays & Celebrations*, *Engagement Parties*, *Blessingsway*, *Graduations*, *Church Events*, and *Corporate Galas* with direct prefilled inquiry routing.
-
-### 📲 5. Direct WhatsApp & Fast Consultation Conduit
-- **Smart URI Encoder**: Form inputs (name, package, event type, approximate date, guest count, aesthetic style, and notes) generate a clean, formatted WhatsApp dispatch message.
-- **1-Click Clipboard Copy**: Built-in clipboard copying with real-time feedback toast notifications.
-- **Direct Hotline**: One-tap phone dialer (`+44 7301 553790`) and direct email conduit.
-
-### 🛎️ 6. Persistent Floating Concierge
-- Unobtrusive floating action button in the lower-right corner across all pages.
-- Offers instant access to WhatsApp consultation, direct atelier telephone call, and the bespoke planning proposal questionnaire.
-
-### 📜 7. UK GDPR-Compliant Legal Architecture
-- Built-in accessible **Privacy Policy** and **Terms & Conditions** modal.
-- Details client confidentiality standards, private event NDAs, data retention, and booking retainer policies.
+- **Autonomous 3D WebGL Canvas (`HeroScene`)**: Real-time Three.js WebGL canvas rendered with autonomous orbital kinetics (zero mouse dependency required), featuring champagne spheres, gold rods, and starlight particles.
+- **Holographic Investment Showcase**: Interactive package cards with 3D perspectives, glowing scanlines, and deep-linked selection for:
+  - **Essential Package (£350)**: Event consultation, planning guidance, timeline creation, and vendor recommendations.
+  - **Standard Package (£700)**: Everything in Essential plus theme & concept design, vendor coordination, and on-the-day coordination.
+  - **Premium Luxury (£1,000)**: Full event management, venue sourcing & management, luxury décor styling, and VIP concierge stewardship.
+- **Package Comparison Matrix**: Interactive modal comparing all three tiers across all deliverables side-by-side.
+- **Continuous Motion Galleries**:
+  - **Infinite Slider**: Smooth, pause-on-hover horizontal category ribbon with gradient edge vignetting for event types.
+  - **Celestial Marquee**: True circular orbital marquee showcasing recent luxury commissions with an interactive Lightbox Modal and direct style inquiry CTAs.
+- **Direct WhatsApp Integration**: Smart URI encoder creating pre-filled WhatsApp consultation inquiries (`+44 7301 553790`) with one-click clipboard copying and toast notifications.
+- **Interactive London Map**: Atelier coverage map highlighting Mayfair, Kensington, Westminster, and destination commissions.
+- **Persistent Floating Concierge**: Bottom-right floating action widget for 1-tap access to WhatsApp, phone hotline, and planning questionnaire.
+- **UK GDPR-Compliant Legal Architecture**: Integrated modal for Privacy Policy and Terms of Service.
 
 ---
 
@@ -85,9 +61,9 @@ The digital identity blends an **Aurelian Editorial** aesthetic:
 Built with modern Single Page Application (SPA) routing with instant scroll restoration and smooth page-fade transitions:
 
 | Route | Page | Purpose & Description |
-|:---|:---|:---|
-| `/` | **Home** | Cinematic 3D Hero scene, brand manifesto, centered emblem lockup, and Experience teaser. |
-| `/our-story` | **Our Story** | The Heritage of Craft, Visionary Precision, and The Architect persona with astrolabe background. |
+| :--- | :--- | :--- |
+| `/` | **Home** | Cinematic 3D Hero scene, brand manifesto, centered emblem, and The Experience teaser. |
+| `/our-story` | **Our Story** | The Heritage of Craft, Visionary Precision, and The Architect persona with astrolabe geometry. |
 | `/services` | **Bespoke Services** | Editorial stack detailing all 6 services with direct consultation CTAs. |
 | `/events` | **Curated Events** | Weddings, Special Occasions, and the infinite looped experience slider. |
 | `/packages` | **Investment** | Holographic vitrine packages, tri-pedestal lighting, and full comparison modal. |
@@ -101,16 +77,17 @@ Built with modern Single Page Application (SPA) routing with instant scroll rest
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology | Details |
-|:---|:---|:---|
-| **Core Framework** | React 18 | `react@^18.3.1`, `react-dom@^18.3.1` |
-| **Routing** | React Router DOM v6 | `react-router-dom@^6.26.2` with SPA rewrite configuration |
-| **Build Tool** | Vite 5 | Fast HMR, Rollup chunk splitting (`react`, `three`) |
-| **Styling** | Vanilla CSS + Tailwind CSS | Custom Aurelian Editorial design tokens, glassmorphism, responsive utilities |
-| **3D Graphics** | Three.js | Autonomous WebGL canvas, custom lighting, procedural particle geometries |
-| **Typography** | Google Fonts | *Playfair Display* (Editorial Serif) & *Inter* (Geometric Sans) |
-| **Icons** | Google Material Symbols | Clean outlined luxury iconography |
-| **Hosting** | Vercel | Native SPA rewrites, clean URLs, and immutable asset cache headers |
+| Layer | Technology | Version / Spec |
+| :--- | :--- | :--- |
+| **Core Framework** | React | `^18.3.1` |
+| **DOM Renderer** | React DOM | `^18.3.1` |
+| **Routing** | React Router DOM | `^6.26.2` |
+| **Build Tool** | Vite | `^5.4.8` |
+| **CSS & Design System** | Tailwind CSS + Vanilla CSS | `^3.4.14` |
+| **3D Graphics** | Three.js | `^0.167.1` |
+| **Typography** | Google Fonts | *Playfair Display* & *Inter* |
+| **Iconography** | Material Symbols Outlined | Google Fonts Webfont |
+| **Deployment** | Vercel | Clean URLs, security headers, SPA rewrites |
 
 ---
 
@@ -137,8 +114,7 @@ Make-it-Happen/
     └── src/
         ├── main.jsx                    # React root mount with BrowserRouter
         ├── App.jsx                     # Layout shell, Header, FloatingConcierge, Footer
-        │
-        ├── assets/                     # Packaged static image assets
+        ├── assets/                     # Static image assets
         ├── components/
         │   ├── Buttons/                # PrimaryButton, CTA buttons
         │   ├── Footer/                 # Luxury obsidian footer with astrolabe SVG
@@ -148,7 +124,6 @@ Make-it-Happen/
         │   ├── Navigation/             # MobileMenu slide-out drawer
         │   ├── ThreeD/                 # HeroScene (WebGL Three.js autonomous drift)
         │   └── shared/                 # FloatingConcierge, LegalModal, Backgrounds
-        │
         ├── data/                       # Contact details, packages, events, services
         ├── pages/                      # 10 Route page components
         ├── styles/                     # globals.css, animations.css, variables.css
@@ -157,13 +132,13 @@ Make-it-Happen/
 
 ---
 
-## 🚀 Quickstart & Local Development
+## 🚀 Quickstart
 
 ### Prerequisites
 - **Node.js**: v18.0.0 or higher
 - **npm**: v9.0.0 or higher
 
-### Installation & Run
+### Local Development
 
 1. **Clone the repository:**
    ```bash
@@ -171,70 +146,50 @@ Make-it-Happen/
    cd Make-it-Happen
    ```
 
-2. **Install dependencies:**
+2. **Install dependencies and start development server:**
    ```bash
    cd make-it-happen-app
    npm install
-   ```
-
-3. **Start development server:**
-   ```bash
    npm run dev
    ```
-   Open [http://localhost:5173](http://localhost:5173) in your browser.
+   Open **`http://localhost:5173`** in your browser.
 
-4. **Build production bundle:**
+3. **Build and preview production bundle:**
    ```bash
    npm run build
-   ```
-
-5. **Preview production build locally:**
-   ```bash
    npm run preview
    ```
 
 ---
 
-## ☁️ Vercel Deployment Guide
+## ☁️ Vercel Deployment
 
-This repository is pre-configured for **turnkey Vercel deployment**. Both root-level and subfolder deployments work seamlessly.
+This project includes turnkey configuration for Vercel.
 
-### Method 1: Deploy from Vercel Dashboard (Recommended)
+### Deploy via Vercel Dashboard
 
 1. Navigate to **[vercel.com/new](https://vercel.com/new)**.
-2. Connect your GitHub account and import **`kerviq-dev/Make-it-Happen`**.
-3. **Project Settings**:
-   - **Framework Preset**: Leave as default / Vite
-   - **Root Directory**: `./` (or select `make-it-happen-app`)
+2. Import **`kerviq-dev/Make-it-Happen`**.
+3. Keep default settings (`./` root directory).
 4. Click **Deploy**.
 
-Vercel will automatically detect [`vercel.json`](vercel.json), execute `npm install && npm run build`, and serve the application from `make-it-happen-app/dist` with zero configuration needed.
-
-### Method 2: Deploy using Vercel CLI
-
-```bash
-npm i -g vercel
-vercel
-```
+Vercel will automatically read [`vercel.json`](vercel.json), run `cd make-it-happen-app && npm install && npm run build`, and serve the application with native SPA routing.
 
 ---
 
-## 📞 Atelier Contact & Inquiries
-
-<div align="center">
+## 📞 Atelier Contact
 
 | Channel | Details | Action |
-|:---|:---|:---|
+| :--- | :--- | :--- |
 | **WhatsApp Hotline** | `+44 7301 553790` | [Chat on WhatsApp](https://wa.me/447301553790) |
 | **Direct Telephone** | `+44 7301 553790` | [Call Atelier](tel:+447301553790) |
 | **Email Atelier** | `makeithappenevents123@gmail.com` | [Send Email](mailto:makeithappenevents123@gmail.com) |
 | **Instagram** | `@makeit376` | [Follow Instagram](https://instagram.com/makeit376) |
-| **Coverage** | London (Mayfair, Kensington, Westminster) & Destination Commissions | [View on Map](https://maps.google.com/?q=London,+UK) |
+| **Coverage Area** | London (Mayfair, Kensington, Westminster) & Global Commissions | [View on Map](https://maps.google.com/?q=London,+UK) |
 
-<br />
+---
 
-**© 2026 Make It Happen Events. All Rights Reserved.**  
-*Extraordinary moments are made to be remembered.*
-
-</div>#   M a k e - i t - H a p p e n  
- 
+<p align="center">
+  <strong>© 2026 Make It Happen Events. All Rights Reserved.</strong><br>
+  <em>Extraordinary moments are made to be remembered.</em>
+</p>
