@@ -1,5 +1,7 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import logoImg from '@logo'
+import LegalModal from '../shared/LegalModal.jsx'
 
 /**
  * Footer — Bespoke luxury editorial design matching the official brand layout.
@@ -7,6 +9,8 @@ import logoImg from '@logo'
  * inspirational quote with filigree flourish, and legal copyright bar.
  */
 export default function Footer() {
+  const [legalModal, setLegalModal] = useState(null)
+
   return (
     <footer className="relative bg-[#090909] text-white w-full border-t border-[#D77A91]/20 overflow-hidden" role="contentinfo">
       
@@ -143,13 +147,32 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left text-xs font-label-caps tracking-widest text-white/50">
           <p>© 2026 MAKE IT HAPPEN EVENTS. ALL RIGHTS RESERVED.</p>
           <div className="flex items-center gap-3 text-white/60">
-            <a href="#" className="hover:text-[#D77A91] transition-colors">PRIVACY POLICY</a>
+            <button
+              type="button"
+              onClick={() => setLegalModal('privacy')}
+              className="hover:text-[#D77A91] transition-colors uppercase font-label-caps cursor-pointer"
+            >
+              PRIVACY POLICY
+            </button>
             <span className="text-[#D77A91]/60">·</span>
-            <a href="#" className="hover:text-[#D77A91] transition-colors">TERMS & CONDITIONS</a>
+            <button
+              type="button"
+              onClick={() => setLegalModal('terms')}
+              className="hover:text-[#D77A91] transition-colors uppercase font-label-caps cursor-pointer"
+            >
+              TERMS & CONDITIONS
+            </button>
           </div>
         </div>
 
       </div>
+
+      {/* Bespoke Legal Modal */}
+      <LegalModal
+        isOpen={Boolean(legalModal)}
+        mode={legalModal || 'privacy'}
+        onClose={() => setLegalModal(null)}
+      />
     </footer>
   )
 }

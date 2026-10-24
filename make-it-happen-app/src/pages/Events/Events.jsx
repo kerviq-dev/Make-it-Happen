@@ -63,7 +63,7 @@ export default function Events() {
                 </p>
                 <Link
                   className="inline-flex items-center font-label-caps text-label-caps text-[#D77A91] hover:text-[#D4A13A] transition-colors group font-semibold"
-                  to="/plan-your-event"
+                  to="/plan-your-event?event=Wedding"
                 >
                   {weddingTier.cta}
                   <span className="material-symbols-outlined ml-2 group-hover:translate-x-1 transition-transform" style={{ fontSize: 16 }}>
@@ -96,7 +96,7 @@ export default function Events() {
                 <div className="flex md:justify-end">
                   <Link
                     className="inline-flex items-center font-label-caps text-label-caps text-[#D77A91] hover:text-[#D4A13A] transition-colors group font-semibold"
-                    to="/plan-your-event"
+                    to="/plan-your-event?event=Special%20Occasion"
                   >
                     {occasionTier.cta}
                     <span className="material-symbols-outlined ml-2 group-hover:translate-x-1 transition-transform" style={{ fontSize: 16 }}>

@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { packages } from '../../data/packages.js'
 import PackagesBackground from '../../components/shared/PackagesBackground.jsx'
@@ -9,6 +10,8 @@ export default function Packages() {
     description:
       'Bespoke event planning packages tailored to your vision: Essential (£350), Standard (£700), and Premium Luxury (£1,000). Delivered with uncompromising elegance in London.',
   })
+
+  const [compareOpen, setCompareOpen] = useState(false)
 
   return (
     <div className="flex-grow pt-[76px] pb-[80px] w-full flex flex-col relative overflow-hidden bg-[#F3E4D6] min-h-screen">
@@ -23,12 +26,16 @@ export default function Packages() {
         <p className="font-body-lg text-body-lg text-[#4A3E42]">
           Bespoke event planning packages tailored to your vision, delivered with uncompromising luxury.
         </p>
-        <div className="mt-8 flex items-center justify-center gap-4 text-[#D77A91]">
-          <div className="w-12 h-px bg-[#D77A91]" />
-          <p className="font-label-caps text-label-caps tracking-widest uppercase font-semibold">
-            Hover or touch to initialize
-          </p>
-          <div className="w-12 h-px bg-[#D77A91]" />
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-4 text-[#D77A91]">
+          <div className="w-12 h-px bg-[#D77A91] hidden sm:block" />
+          <button
+            onClick={() => setCompareOpen(true)}
+            className="inline-flex items-center gap-2 font-label-caps text-label-caps text-[#241C1E] bg-[#FAF4EE]/90 hover:bg-[#D77A91] hover:text-white px-5 py-2 rounded-full border border-[#D77A91]/40 shadow-sm transition-all duration-300 uppercase tracking-widest text-xs font-semibold cursor-pointer"
+          >
+            <span className="material-symbols-outlined text-[16px] text-[#D77A91]">balance</span>
+            Compare Package Inclusions
+          </button>
+          <div className="w-12 h-px bg-[#D77A91] hidden sm:block" />
         </div>
       </header>
 
@@ -38,6 +45,113 @@ export default function Packages() {
           <HologramOrb key={pkg.id} pkg={pkg} />
         ))}
       </div>
+
+      {/* Package Comparison Modal */}
+      {compareOpen && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-md animate-fade-in"
+          onClick={() => setCompareOpen(false)}
+          role="dialog"
+          aria-modal="true"
+        >
+          <div
+            className="bg-[#FAF4EE] border border-[#D77A91]/40 rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto p-6 md:p-10 shadow-2xl relative text-[#241C1E]"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-center justify-between pb-6 border-b border-[#D77A91]/20">
+              <div>
+                <span className="font-label-caps text-xs text-[#D77A91] uppercase tracking-widest font-bold">
+                  Bespoke Comparison Matrix
+                </span>
+                <h2 className="font-headline-md text-headline-sm md:text-headline-md text-[#241C1E] font-bold">
+                  Curated Tier Breakdown
+                </h2>
+              </div>
+              <button
+                onClick={() => setCompareOpen(false)}
+                className="text-[#6B5E62] hover:text-[#241C1E] p-2 rounded-full hover:bg-[#D77A91]/15 transition-colors"
+                aria-label="Close comparison modal"
+              >
+                <span className="material-symbols-outlined text-2xl">close</span>
+              </button>
+            </div>
+
+            <div className="overflow-x-auto mt-6">
+              <table className="w-full text-left text-sm border-collapse">
+                <thead>
+                  <tr className="border-b border-[#D77A91]/30">
+                    <th className="py-4 px-3 font-label-caps uppercase tracking-wider text-xs text-[#6B5E62]">Deliverable / Feature</th>
+                    <th className="py-4 px-3 font-headline-sm text-sm text-[#241C1E] font-bold text-center">Essential<br /><span className="text-xs font-normal text-[#D77A91]">£350</span></th>
+                    <th className="py-4 px-3 font-headline-sm text-sm text-[#241C1E] font-bold text-center">Standard<br /><span className="text-xs font-normal text-[#D77A91]">£700</span></th>
+                    <th className="py-4 px-3 font-headline-sm text-sm text-[#D4A13A] font-bold text-center bg-[#D4A13A]/10 rounded-t-lg">Premium Luxury<br /><span className="text-xs font-bold text-[#D4A13A]">£1,000</span></th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-[#D77A91]/15 font-body-md text-xs sm:text-sm">
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">Initial Event Consultation</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Extended VIP</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">Bespoke Timeline Creation</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Master Run-Sheet</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">Décor & Theme Conception</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">Advice Only</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓ Full Concept</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Luxury 3D Moodboards</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">Vendor Sourcing & Coordination</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">Recommendations</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓ Coordination</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Full Vendor Management</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">Venue Sourcing & Site Inspection</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">—</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">—</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Included</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">On-the-Day Live Coordination</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">—</td>
+                    <td className="py-3.5 px-3 text-center text-[#D77A91]">✓ Included</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ Principal Architect On-Site</td>
+                  </tr>
+                  <tr>
+                    <td className="py-3.5 px-3 font-medium">VIP Concierge & Dedicated Hotline</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">—</td>
+                    <td className="py-3.5 px-3 text-center text-[#6B5E62]/50">—</td>
+                    <td className="py-3.5 px-3 text-center text-[#D4A13A] bg-[#D4A13A]/5 font-bold">✓ 24/7 Priority Support</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mt-8 pt-6 border-t border-[#D77A91]/20">
+              {packages.map((pkg) => (
+                <Link
+                  key={pkg.id}
+                  to={`/plan-your-event?package=${encodeURIComponent(pkg.name)}`}
+                  onClick={() => setCompareOpen(false)}
+                  className={`text-center py-3 px-4 rounded-full font-label-caps text-xs tracking-wider uppercase font-semibold transition-all ${
+                    pkg.featured
+                      ? 'bg-[#D77A91] text-white hover:bg-[#D4A13A] shadow-md'
+                      : 'bg-white border border-[#D77A91]/40 text-[#241C1E] hover:bg-[#D77A91] hover:text-white'
+                  }`}
+                >
+                  Select {pkg.name.replace(' Package', '')}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
@@ -94,7 +208,7 @@ function HologramOrb({ pkg }) {
           </ul>
 
           <Link
-            to="/plan-your-event"
+            to={`/plan-your-event?package=${encodeURIComponent(pkg.name)}`}
             className={`hologram-btn font-label-caps text-label-caps px-8 py-3 rounded-full transition-all duration-300 w-full block text-center uppercase tracking-widest font-semibold ${
               isPremium
                 ? 'bg-[#D77A91] text-white hover:bg-[#D4A13A] shadow-lg shadow-[#D77A91]/30'

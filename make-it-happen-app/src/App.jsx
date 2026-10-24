@@ -3,6 +3,7 @@ import Header from './components/Header/Header.jsx'
 import Footer from './components/Footer/Footer.jsx'
 import ScrollToTop from './components/shared/ScrollToTop.jsx'
 import PageTransition from './components/shared/PageTransition.jsx'
+import FloatingConcierge from './components/shared/FloatingConcierge.jsx'
 
 // Pages
 import Home from './pages/Home/Home.jsx'
@@ -43,6 +44,9 @@ export default function App() {
 
       {/* Shared Footer — implemented once across all pages */}
       <Footer />
+
+      {/* Persistent Atelier Floating Concierge */}
+      <FloatingConcierge />
     </div>
   )
 }

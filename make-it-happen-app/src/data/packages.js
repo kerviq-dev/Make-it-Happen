@@ -19,7 +19,7 @@ export const packages = [
       'Basic décor advice',
       'Vendor recommendations',
     ],
-    ctaLabel: 'Initialize Setup',
+    ctaLabel: 'Select Essential · £350',
   },
   {
     id: 'premium',
@@ -39,7 +39,7 @@ export const packages = [
       'On-the-day coordination',
       'VIP service & support',
     ],
-    ctaLabel: 'Initialize Setup',
+    ctaLabel: 'Reserve Luxury · £1,000',
   },
   {
     id: 'standard',
@@ -57,6 +57,6 @@ export const packages = [
       'Event timeline & schedule',
       'On-the-day coordination',
     ],
-    ctaLabel: 'Initialize Setup',
+    ctaLabel: 'Select Standard · £700',
   },
 ]

@@ -70,6 +70,15 @@ export default function Services() {
               <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                 {service1.description}
               </p>
+              <div>
+                <Link
+                  to={`/plan-your-event?style=${encodeURIComponent(service1.title)}`}
+                  className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors mt-2"
+                >
+                  <span>Enquire On This Service</span>
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                </Link>
+              </div>
             </div>
           </div>
         )}
@@ -97,6 +106,15 @@ export default function Services() {
               <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                 {service2.description}
               </p>
+              <div>
+                <Link
+                  to={`/plan-your-event?style=${encodeURIComponent(service2.title)}`}
+                  className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors mt-2"
+                >
+                  <span>Enquire On This Service</span>
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                </Link>
+              </div>
             </div>
           </div>
         )}
@@ -124,7 +142,14 @@ export default function Services() {
                 <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                   {service3.description}
                 </p>
-                <div className="mt-4 rounded-lg overflow-hidden h-48 border border-[#D77A91]/20">
+                <Link
+                  to={`/plan-your-event?style=${encodeURIComponent(service3.title)}`}
+                  className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors"
+                >
+                  <span>Enquire On Concept Design</span>
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                </Link>
+                <div className="mt-2 rounded-lg overflow-hidden h-48 border border-[#D77A91]/20">
                   <img
                     className="w-full h-full object-cover opacity-90"
                     src={service3.imageUrl}
@@ -145,7 +170,14 @@ export default function Services() {
                 <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                   {service4.description}
                 </p>
-                <div className="mt-4 rounded-lg overflow-hidden h-48 border border-[#D77A91]/20">
+                <Link
+                  to={`/plan-your-event?style=${encodeURIComponent(service4.title)}`}
+                  className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors"
+                >
+                  <span>Enquire On Décor Styling</span>
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                </Link>
+                <div className="mt-2 rounded-lg overflow-hidden h-48 border border-[#D77A91]/20">
                   <img
                     className="w-full h-full object-cover opacity-90"
                     src={service4.imageUrl}
@@ -179,6 +211,13 @@ export default function Services() {
               <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                 {service5.description}
               </p>
+              <Link
+                to={`/plan-your-event?style=${encodeURIComponent(service5.title)}`}
+                className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors mt-1"
+              >
+                <span>Enquire On Catering & Vendor Management</span>
+                <span className="material-symbols-outlined text-sm">arrow_forward</span>
+              </Link>
             </div>
           )}
           {service6 && (
@@ -200,6 +239,13 @@ export default function Services() {
               <p className="font-body-md text-body-md text-[#4A3E42] leading-relaxed">
                 {service6.description}
               </p>
+              <Link
+                to={`/plan-your-event?style=${encodeURIComponent(service6.title)}`}
+                className="inline-flex items-center gap-1.5 font-label-caps text-xs text-[#D77A91] hover:text-[#D4A13A] uppercase tracking-wider font-semibold transition-colors mt-1"
+              >
+                <span>Enquire On On-Day Coordination</span>
+                <span className="material-symbols-outlined text-sm">arrow_forward</span>
+              </Link>
             </div>
           )}
         </div>

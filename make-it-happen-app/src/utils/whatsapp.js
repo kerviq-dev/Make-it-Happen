@@ -15,15 +15,17 @@ const WHATSAPP_PHONE = '447301553790'
  * @returns {string} WhatsApp URL
  */
 export function buildWhatsAppUrl(fields = {}) {
-  const lines = ["Hello! I'd like to enquire about planning an event with Make It Happen Events."]
+  const lines = ["Hello! I'd like to enquire about planning a bespoke event with Make It Happen Events."]
 
-  if (fields.name)      lines.push(`Name: ${fields.name}`)
-  if (fields.eventType) lines.push(`Event type: ${fields.eventType}`)
-  if (fields.date)      lines.push(`Preferred date: ${fields.date}`)
-  if (fields.guests)    lines.push(`Number of guests: ${fields.guests}`)
-  if (fields.notes)     lines.push(`Additional notes: ${fields.notes}`)
+  if (fields.name)      lines.push(`• Name: ${fields.name}`)
+  if (fields.package)   lines.push(`• Package of Interest: ${fields.package}`)
+  if (fields.eventType) lines.push(`• Event Type: ${fields.eventType}`)
+  if (fields.date)      lines.push(`• Approximate Date: ${fields.date}`)
+  if (fields.guests)    lines.push(`• Expected Guests: ${fields.guests}`)
+  if (fields.style)     lines.push(`• Aesthetic Style: ${fields.style}`)
+  if (fields.notes)     lines.push(`• Vision & Notes: ${fields.notes}`)
 
-  lines.push('\nI look forward to hearing from you.')
+  lines.push('\nI look forward to discussing availability and next steps with your team.')
 
   const message = lines.join('\n')
   return `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(message)}`

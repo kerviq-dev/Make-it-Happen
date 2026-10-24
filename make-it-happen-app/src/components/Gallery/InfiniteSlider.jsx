@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { handleImgError } from '../../utils/seo.js'
 
 /**
@@ -44,11 +45,12 @@ export default function InfiniteSlider({ items = [], speed = 35 }) {
         aria-label="Event categories"
       >
         {looped.map((item, idx) => (
-          <div
+          <Link
             key={`${item.id}-${idx}`}
+            to={`/plan-your-event?event=${encodeURIComponent(item.title)}`}
             role="listitem"
-            aria-label={item.title}
-            className="relative w-[300px] md:w-[350px] h-[400px] md:h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-lg shadow-xl cursor-pointer bg-[#FAF4EE] border border-[#D77A91]/20 hover:border-[#D77A91] transition-all duration-500"
+            aria-label={`Enquire about ${item.title}`}
+            className="relative w-[300px] md:w-[350px] h-[400px] md:h-[450px] flex-shrink-0 group image-zoom-container overflow-hidden rounded-lg shadow-xl cursor-pointer bg-[#FAF4EE] border border-[#D77A91]/20 hover:border-[#D77A91] transition-all duration-500 block"
             style={{ backgroundColor: '#FAF4EE' }}
           >
             <img
@@ -58,11 +60,21 @@ export default function InfiniteSlider({ items = [], speed = 35 }) {
               onError={handleImgError}
               loading="lazy"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-[#241C1E]/80 via-transparent to-transparent" />
-            <div className="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0 border-t border-[#D77A91]/25">
-              <h4 className="font-headline-sm text-headline-sm text-[#241C1E] group-hover:text-[#D77A91] transition-colors font-bold">{item.title}</h4>
+            <div className="absolute inset-0 bg-gradient-to-t from-[#241C1E]/85 via-transparent to-transparent opacity-90 group-hover:opacity-100 transition-opacity" />
+            <div className="absolute bottom-0 left-0 w-full p-6 glass-panel border-x-0 border-b-0 border-t border-[#D77A91]/25 flex items-center justify-between">
+              <div>
+                <span className="font-label-caps text-[10px] text-[#D77A91] uppercase tracking-widest block font-bold mb-1">
+                  Bespoke Curation
+                </span>
+                <h4 className="font-headline-sm text-headline-sm text-[#241C1E] group-hover:text-[#D77A91] transition-colors font-bold">
+                  {item.title}
+                </h4>
+              </div>
+              <span className="material-symbols-outlined text-[#D77A91] text-xl group-hover:translate-x-1.5 transition-transform">
+                arrow_forward
+              </span>
             </div>
-          </div>
+          </Link>
         ))}
       </div>
     </div>
